@@ -22,49 +22,51 @@ try:
   # cursor.execute("SELECT * FROM mytest")
   # open eductaion.csv file
   
-  with open('health.csv',mode='r') as f:
-    csv_reader=csv.reader(f)
-    headers=next(csv_reader)
-    # print(headers)
-    tablename="population"
-    columns1 = "create table health ( health_id int auto_increment,"
-    for i in range(5):
-      temp=list(headers[i])
-      if len(temp)>1:
-        temp=headers[i].replace("( UHS )","")
-        temp=temp.replace(" ","_")
-        temp=temp.replace("\t","_")
-        temp=temp.replace("(","_")
-        temp=temp.replace(")","_")
-        temp=temp.replace("/","_")
-        temp=temp.replace(":","_")
-        temp=temp.replace("-","_")
-        # print(temp)
-        if len(temp)>64:
-            temp=temp[len(temp)-64:]
-      columns1+= f"{temp} varchar(255),"
+#   with open('health.csv',mode='r') as f:
+#     csv_reader=csv.reader(f)
+#     headers=next(csv_reader)
+#     # print(headers)
+#     tablename="population"
+#     columns1 = "create table health ( health_id int auto_increment,"
+#     for i in range(5):
+#       temp=list(headers[i])
+#       if len(temp)>1:
+#         temp=headers[i].replace("( UHS )","")
+#         temp=temp.replace(" ","_")
+#         temp=temp.replace("\t","_")
+#         temp=temp.replace("(","_")
+#         temp=temp.replace(")","_")
+#         temp=temp.replace("/","_")
+#         temp=temp.replace(":","_")
+#         temp=temp.replace("-","_")
+#         # print(temp)
+#         if len(temp)>64:
+#             temp=temp[len(temp)-64:]
+#       columns1+= f"{temp} varchar(255),"
       
-    for i in range(5,27):
-      temp=list(headers[i])
-      if len(temp)>1:
-        temp=headers[i].replace(" ","_")
-        temp=temp.replace("\t","_")
-        temp=temp.replace("(","_")
-        temp=temp.replace(")","_")
-        temp=temp.replace("/","_")
-        temp=temp.replace("-","_")
-        temp=temp.replace(",","_")
-        # temp=temp.replace("_","")
-        if len(temp)>64:
-            temp=temp[len(temp)-64:]
-      columns1+= f"{temp} int,"
+#     for i in range(5,27):
+#       temp=list(headers[i])
+#       if len(temp)>1:
+#         temp=headers[i].replace(" ","_")
+#         temp=temp.replace("\t","_")
+#         temp=temp.replace("(","_")
+#         temp=temp.replace(")","_")
+#         temp=temp.replace("/","_")
+#         temp=temp.replace("-","_")
+#         temp=temp.replace(",","_")
+#         # temp=temp.replace("_","")
+#         if len(temp)>64:
+#             temp=temp[len(temp)-64:]
+#       columns1+= f"{temp} int,"
       
-    columns1+="primary key (health_id))"
+#     columns1+="primary key (health_id))"
     
-    print(columns1)
-    cursor.execute(f"{columns1}")
+#     print(columns1)
+#     cursor.execute(f"{columns1}")
     
     # for row in csv_reader:
+    
+    
       
   
   print(cursor.fetchall())
