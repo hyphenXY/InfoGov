@@ -1,0 +1,3 @@
+1. All APIs in "api.json" file.
+2. Start Frontend with "make frontend" command.
+3. start Apache with "make airflow" command.
