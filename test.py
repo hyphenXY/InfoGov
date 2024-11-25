@@ -6,26 +6,8 @@ import torch
 
 # Step 1: Create Sample Datasets
 # Dataset 1
-data1 = {
-    "full_name": ["Alice", "Bob", "Charlie"],
-    "age": [25, 30, 35],
-    "location": ["New York", "Los Angeles", "Chicago"],
-}
-df1 = pd.DataFrame(data1)
-
-# Dataset 2
-data2 = {
-    "name": ["Alice", "Bob", "Charlie"],
-    "years_old": [25, 30, 35],
-    "city": ["New York", "Los Angeles", "Chicago"],
-}
-df2 = pd.DataFrame(data2)
-
-# Display datasets
-print("Dataset 1:")
-print(df1)
-print("\nDataset 2:")
-print(df2)
+df1=pd.read_csv('education.csv')
+df2=pd.read_csv('health.csv')
 
 # Step 2: Load the Hugging Face Embedding Model
 model_name = "sentence-transformers/all-MiniLM-L6-v2"  # A lightweight embedding model
@@ -53,7 +35,7 @@ matches = []
 for col1, embed1 in embeddings1.items():
     for col2, embed2 in embeddings2.items():
         similarity = cosine_similarity(embed1.numpy(), embed2.numpy())[0][0]
-        if similarity > 0.8:  # Threshold for matching
+        if similarity > 0.6:  # Threshold for matching
             matches.append((col1, col2, similarity))
 
 # Step 6: Display Results
