@@ -11,8 +11,8 @@
         "https://ndap.niti.gov.in/dataset/6066",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRGmPj4L4w7upz_8qcBb_8W1EwDs-_-fyTa0nMn7R_7NPnPiqupvg6qOIrD9Wa34X7ttPPLGYWURgNtrStyv3VDzOHxrY8NvuQ9nUQtzY1XRBpSv4eqNzi8oeAylsXFPM79-b2nADIRamt9xa5tVxewslYyaBuvkZlBSekDdC_yVo0IdJZT1ZvmzxBLvlvJamJAoH&ind=I6066_4,I6066_5,I6066_6,I6066_7,I6066_8,I6066_9,I6066_10,I6066_11,I6066_12&dim=Country,StateName,StateCode,Year,D6066_3&pageno=1"
     ],
-    "Percentage Enrolment in Higher Education":
-    ["https://ndap.niti.gov.in/dataset/8728",
-    "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRLgkkfrO--q01ZtRpCxQGVk4yOrv6AP7gVa1S1oP6LxwpipkIGuQJMxBLZQb-BQN_9SRj-2cJD_K6eTvSs1RXuCd11tMRN-X5CWEqN4H8KRwssHZksBzTcNQZw0eSe81mYJoFRfNKdnIGGbtrsZwQ9-7-ZSltnoWngr3z_E-L4cSjg3Vrw29XecuWW0eZVNMyCMe&ind=I8728_5&dim=Country,Year,D8728_3,D8728_4&pageno=1"
-]
+    "Percentage Enrolment in Higher Education": [
+        "https://ndap.niti.gov.in/dataset/8728",
+        "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRLgkkfrO--q01ZtRpCxQGVk4yOrv6AP7gVa1S1oP6LxwpipkIGuQJMxBLZQb-BQN_9SRj-2cJD_K6eTvSs1RXuCd11tMRN-X5CWEqN4H8KRwssHZksBzTcNQZw0eSe81mYJoFRfNKdnIGGbtrsZwQ9-7-ZSltnoWngr3z_E-L4cSjg3Vrw29XecuWW0eZVNMyCMe&ind=I8728_5&dim=Country,Year,D8728_3,D8728_4&pageno=1"
+    ]
 }
