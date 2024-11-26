@@ -1,6 +1,14 @@
 import json
 import requests
 
+api_url1=""
+# open api.json
+with open("api.json") as f:
+    data = json.load(f)
+    api_url1=data["7047"][2]
+    
+
+
 
 def get_data_from_api(api_url):
     response = requests.get(api_url)
@@ -17,12 +25,16 @@ def extract_data(data, key):
 
 i = 1
 while True:
-    api_url = f"https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRGmPj4L4w7upz_8qcBb_8W1EwDs-_-fyTa0nMn7R_7NPnPiqupvg6qOIrD9Wa34X7ttPPLGYWURgNtrStyv3VDzOHxrY8NvuQ9nUQtzY1XRBpSv4eqNzi8oeAylsXFPM79-b2nADIRamt9xa5tVxewslYyaBuvkZlBSekDdC_yVo0IdJZT1ZvmzxBLvlvJamJAoH&ind=I6066_4,I6066_5,I6066_6,I6066_7,I6066_8,I6066_9,I6066_10,I6066_11,I6066_12&dim=Country,StateName,StateCode,Year,D6066_3&pageno={i}"
+    api_url=f"{api_url1[:-1]}{i}"
+    print(api_url)
+
     extracted_data = get_data_from_api(api_url)
-    if i==81:
+    if i==44:
         break
-    # print(extracted_data["IsError"])
+    
+    
     print(i)
+    
     headers = get_data_from_api(api_url)["Headers"]["Items"]
     id_to_displayname = {header["ID"]: header["DisplayName"] for header in headers}
     modified_data = []
@@ -63,5 +75,8 @@ while True:
     # Optionally, save to a CSV file
     # df.to_csv("education.csv", index=False)
     # append the content to "education.csv"
-    df.to_csv("health.csv", mode="a", header=True, index=False)
-    i += 1
+    if i==1:
+        df.to_csv("7047.csv",header=True, index=False)
+    else:
+        df.to_csv("7047.csv", mode="a", header=False, index=False)
+    i+=1
