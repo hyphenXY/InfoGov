@@ -2,6 +2,8 @@ from logging import exception
 import pymysql
 import json
 
+   
+
 timeout = 10
 connection = pymysql.connect(
   charset="utf8mb4",
