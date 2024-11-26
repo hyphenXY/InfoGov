@@ -1,45 +1,56 @@
 {
-    "Goods & Service Tax (GST) Returns": [
+    "7102": [
+        "Goods & Service Tax (GST) Returns",
         "https://ndap.niti.gov.in/dataset/7102",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXoWpAzbto81bUvSV0hXlmmKEFZSU6ESFPzjLou2kQlp0Bgt5TnMTUodeI0mxbl3IWYWVxW1mh5srsI6CoBKqfmtPr95VRYSnaB4tsvFHNKR8b-J7RCTHEqE22gfwiUGDxX-FcJaSofObHhdPU_cYAWfF06tXJ3nDwgssT12Sy-9rbrD25xIF8QQlU3ShQFSuWeM&ind=I7102_5,I7102_6,I7102_7&dim=Country,StateName,StateCode,Year,Month,D7102_4&pageno=1"
     ],
-    "Goods & Service Tax (GST) registration": [
+    "7103": [
+        "Goods & Service Tax (GST) registration",
         "https://ndap.niti.gov.in/dataset/7103",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXpEIX3fzs4qNEDsaa2ErWPEvmLSrb5XR6nW4JvlVUnArRpdPLm-yEatZxp9NOcZYD69UNKc5Cx-MV_zT8K31nb0A_0ZmCcJQYEgphG7eRS5yZZhGL8lDI0gbLfxeODYtlylYM_YYR0eU4xCdsiu_g2Ng8QV_acTkv1I8N7XqbLmH4l6bwZRdmSG8EsD81moY8oW&ind=I7103_5,I7103_6,I7103_7,I7103_8,I7103_9,I7103_10,I7103_11,I7103_12,I7103_13&dim=Country,StateName,StateCode,Year&pageno=1"
     ],
-    "Settlement of Integrated Goods and Service Taxes (IGST)": [
+    "7107": [
+        "Settlement of Integrated Goods and Service Taxes (IGST)",
         "https://ndap.niti.gov.in/dataset/7107",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXpbKrHfDt45sA7DFwqtrbAOAO6BW6LeJeTrB7yV3x9wX2_e8X18ucAEiFdWADlhtOgG39QRNuubEW0hMvls_Sj3XPhUybPCadrZ-855V4KjWMyREl9j6w1yuGB2jqfWl7eJktSJ5DEoxsUPh7VHHtuY1Kbi9WBMyGQlCNe7ZpC6asSwA7uo0qhD2zPoSj0SP4v1&ind=I7107_4&dim=Country,StateName,StateCode,Year,Month&pageno=1"
     ],
-    "Handbook of Statistics on Indian States : Banking": [
+    "7047": [
+        "Handbook of Statistics on Indian States: Banking",
         "https://ndap.niti.gov.in/dataset/7047",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXpvV1EEj9eiWg9qFynZ0gIcaC3vILjczfMmsEuXqHbYHmV1rv_hLyxTBq5w4IOF_WNqCOO9HZgPCPUnrHn9v-sOBqw83y2jEluwQUxcyKDwPD-q_O2zdIGcweLG4AJFQKgs8N4nKzvr9pMleUipwdJqSGeeEvbndWDsAv9KLSqPs8cbyfcH1GP5pI7I18-k4x25&ind=I7047_3,I7047_4,I7047_5,I7047_6,I7047_7,I7047_8,I7047_9,I7047_10,I7047_11,I7047_12,I7047_13,I7047_14&dim=Country,StateName,StateCode,Year&pageno=1"
     ],
-    "Handbook of Statistics on Indian States: Fiscal Indicators": [
+    "7048": [
+        "Handbook of Statistics on Indian States: Fiscal Indicators",
         "https://ndap.niti.gov.in/dataset/7048",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXqC9ln-i-J8EVysG055KHaH34DqaToogaDlxumZ5HYKW_gmE7p7RPeeZny8_OnO5dRFcnXpfbg7i7d0TdI9ICH49aMyyUGfR7OdCzuCm1D3r8qL0E36LE-uH4k6G0a0ECLG4bjQzcWlzF3TK34_nbAD3oSIfNXzRYoTNp-1oNtO4fYbQzVbZjNOFt--LQM-MK0U&ind=I7048_3,I7048_4,I7048_5,I7048_6,I7048_7,I7048_8,I7048_9,I7048_10,I7048_11,I7048_12&dim=Country,StateName,StateCode,Year&pageno=1"
     ],
-    "Handbook of Statistics on Indian States: Composition of Outstanding Liabilities": [
+    "7049": [
+        "Handbook of Statistics on Indian States: Composition of Outstanding Liabilities",
         "https://ndap.niti.gov.in/dataset/7049",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXqjP9ARVaCXQJmpYsS0WLneKAsihVx-0XBFToFt_aQDeb7c4anoYRNvSFea5fbggeIvXF1rdNdKzejxQppfFXzuW0lQ5bA9TXTiu7rcTfUiLlidm_SSRII2o9TMArJjDPJccKO6r5qG1hxqjQ7idmNeib_BwXsCA4nBY42gefxdbgKy6E30F4Hf1YEOR7QQEY9v&ind=I7049_3,I7049_4,I7049_5,I7049_6,I7049_7,I7049_8,I7049_9,I7049_10,I7049_11,I7049_12,I7049_13,I7049_14,I7049_15,I7049_16,I7049_17,I7049_18,I7049_19,I7049_20,I7049_21&dim=Country,StateName,StateCode,Year&pageno=1"
     ],
-    "State/UT-wise Percentage distribution of workers in usual status (principal status + subsidiary status) by broad status in employment": [
+    "1689": [
+        "State/UT-wise Percentage distribution of workers in usual status (principal status + subsidiary status) by broad status in employment",
         "https://ndap.niti.gov.in/dataset/1689",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXraMtiOPlsgIXAzzXU96KmneJP1NyEha44_fJ0CL04GYUSx5hfVKVibiSDt61iJojebN5sTawj_cxn9jo-v2xUrkAZdK7WmVoqnYhYprNF3kbnP89Zk4YDJ1E5BIron0xWsq3OA8jVIhsN6_w_KOJMwuGqYESRAMAIzH9tNJcSEf2VfIqT3Cynw9yMp_feXcOTo&ind=I1689_6&dim=Country,StateName,StateCode,Year,D1689_3,D1689_4,D1689_5&pageno=1"
     ],
-    "Percentage distribution of workers in usual status (principal status + subsidiary status) by broad status in employment for each industry of work": [
+    "1690": [
+        "Percentage distribution of workers in usual status (principal status + subsidiary status) by broad status in employment for each industry of work",
         "https://ndap.niti.gov.in/dataset/1690",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXrnCR7yyavSHCpsJiMQUL2v1Ts5qMRZ5VAcFaIRCPHGPPGbjxbSwYOa6_m5ebAYN9w9OAFG9hLIO_BkGgMr6MUfJcXK7S8kBsmewmCgB7Yjon8LbwiofnPOkbV7U7uF4bEjls2mzGJ4qR6JkQe-JnZxniHXUmyRWXAiEfulbvExYWL7ufJPqsI6WKFsUYEl85bc&ind=I1690_7&dim=Country,Year,D1690_3,D1690_4,D1690_5,D1690_6&pageno=1"
     ],
-    "State/UT-wise Worker Population Ratio (WPR) (in per cent) according to usual status (principal status + subsidiary status) - age group": [
+    "1691": [
+        "State/UT-wise Worker Population Ratio (WPR) (in per cent) according to usual status (principal status + subsidiary status) - age group",
         "https://ndap.niti.gov.in/dataset/1691",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXsDmDh9BWm9cqXTtCHkvu2dyxyG-_NkaZMWYdWLhiIC5iAGZrVKPxykl50LIXZazPlBvOw6sBIM1M6nx7HqUheSO5CTTBJU87acWzk8fvhgfE1YTG0uAP3VoeowqfOUkrEpA4B_HX8jOJLOwFhvqIXdvc0WAhAkdzYqORp4smuXEdYhb-Xq0fZJEuC5thrV_8JE&ind=I1691_6&dim=Country,StateName,StateCode,Year,GENDER,D1691_3,D1691_4&pageno=1"
     ],
-    "State/UT-wise Labour Force Participation Rate (LFPR) (in per cent) according to usual status (principal status + subsidiary status) - age group": [
+    "1701": [
+        "State/UT-wise Labour Force Participation Rate (LFPR) (in per cent) according to usual status (principal status + subsidiary status) - age group",
         "https://ndap.niti.gov.in/dataset/1701",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXsQx7SZFPaqzuIeGmKIIVPatBPyI4N15t3uwjv0cLNPWDNK_sfOP8bCdVohTkPmE6ZERfx1s86otOZr0HX1x-xX95MjsnVn3RCQ5Jkxsx2VaLR_ApsTwFgRv48OwtwUrSbSPYBy3GQTKiIQtqLL6ItHywPrjWAIrWtklXwKlQDG9_ki3REDSThrHRfX-PUzlnNg&ind=I1701_6&dim=Country,StateName,StateCode,Year,GENDER,D1701_3,D1701_5&pageno=1"
     ],
-    "Major growth rates and ratios - Select Fiscal Indicators of the Central Government (As Percentage to GDP)": [
+    "7389": [
+        "Major growth rates and ratios - Select Fiscal Indicators of the Central Government (As Percentage to GDP)",
         "https://ndap.niti.gov.in/dataset/7389",
         "https://loadqa.ndapapi.com/v1/openapi?API_Key=gAAAAABnRXsfw_0JF5XNNRMXQN6fJqVMKEqnqOTX6_H2WwhJ2QE7WItivDSmHA9oTJeZsDGEiVjvWPcVZFRpkbXEihZzhH8L7iTTrS1YI-O0GJeo50mUvU1qBKGploZ5kP00cJPGfXqLK4mT4m7wpE-sVeNjeJjXqABChgHjtsv8CaAHXGhB5PC5nR3RxP8rB-kBuBM30lqF&ind=I7389_3,I7389_4,I7389_5,I7389_6,I7389_7,I7389_8,I7389_9,I7389_10,I7389_11,I7389_12,I7389_13,I7389_14,I7389_15,I7389_16,I7389_17,I7389_18,I7389_19,I7389_20,I7389_21,I7389_22&dim=Country,Year&pageno=1"
     ]
