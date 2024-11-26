@@ -1,4 +1,5 @@
 import pymysql
+import json
 
 timeout = 10
 connection = pymysql.connect(
@@ -13,13 +14,20 @@ connection = pymysql.connect(
   user="avnadmin",
   write_timeout=timeout,
 )
+
+lst=[]
+
+with open('api.json', 'r') as f:
+    data = json.load(f)
+    for k in data.keys():
+      lst.append(k)
+      
+# print(lst)
+    
   
 try:
   cursor = connection.cursor()
   cursor.execute("use iia_group2")
-  # cursor.execute("INSERT INTO mytest (id) VALUES (1), (2)")
-  # cursor.execute("SELECT * FROM mytest")
-  # open eductaion.csv file
   
   # with open('education.csv',mode='r') as f:
   #   csv_reader=csv.reader(f)
