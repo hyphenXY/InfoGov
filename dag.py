@@ -17,9 +17,9 @@ default_args = {
 }
 
 dag = DAG(
-    'twitter_dag',
+    'API_Extraction',
     default_args=default_args,
-    description='Our first DAG with ETL process!',
+    description='Extraction API',
     schedule_interval=timedelta(days=1),
 )
 
