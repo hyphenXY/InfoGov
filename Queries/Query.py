@@ -2,7 +2,7 @@ from logging import exception
 import pymysql
 import json
 
-   
+
 def q1(state, year):
     timeout = 10
     connection = pymysql.connect(
@@ -23,7 +23,11 @@ def q1(state, year):
         cursor.execute("use iia_group2")
         
         with open("Queries/query1.sql", "r") as file:
-            sql_script = file.read()    
+            sql_script = file.read()  
+        
+        # matching 
+        
+          
         sql_script = sql_script.replace("@state", f"'{state}'").replace("@year", f"'{year}'")
 
         sql_statements = sql_script.split(";")
