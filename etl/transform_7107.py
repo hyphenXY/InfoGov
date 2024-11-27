@@ -6,7 +6,7 @@ from datetime import datetime
 import re
 import pandas
 
-df = pandas.read_csv("../7107.csv")
+df = pandas.read_csv("7107.csv")
 timeout = 10
 connection = pymysql.connect(
   charset="utf8mb4",
@@ -103,13 +103,13 @@ df_per_year["end_date"] = df_per_year.apply(lambda x : get_end_date(x["Year"]),a
 df_per_month["state"] = df_per_month.apply(lambda x : match_state_name(x["State"],unique_state_list),axis=1)
 df_per_month["date"] = df_per_month.apply(lambda x : get_month(x["Month"]),axis=1)
 
-col_name = ["state","start_date","end_date"]
+col_name1 = ["state","start_date","end_date"]
 for i in df_per_year.keys():
     x = i.split('_')
     if(len(x) == 2 and x[1] == "avg"):
         print(df_per_year[i])
         df_per_year[x[0]] = df_per_year[i]
-        col_name.append(x[0])
+        col_name1.append(x[0])
 
 
 col_name = ["state","date"]
@@ -122,6 +122,6 @@ for i in df_per_month.keys():
 df_per_month_transformed =  df_per_month[col_name]
 df_per_month_transformed.dropna()
 
-df_per_month_transformed.to_csv("trans_register_payers_per_month_data_2.csv")
-df_per_year[col_name].dropna().to_csv("trans_GST_info_per_year_data_2.csv")
+df_per_month_transformed.to_csv("etl/trans_register_payers_per_month_data_2.csv")
+df_per_year[col_name1].dropna().to_csv("etl/trans_GST_info_per_year_data_2.csv")
 
