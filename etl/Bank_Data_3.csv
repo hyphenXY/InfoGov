@@ -1,0 +1,793 @@
+,Credit to agriculture,Personal loans,Credit to industry,Credit,Distribution of offices,Deposits,Credit-Deposit ratio,Number of Branches,,state,start,end,bank type,start_date,end_date
+0,,,,684.69,,1956.258,35.5,254.314,regional_rural_banks,jammu and kashmir,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+1,1365.922,4695.02,2836.575,14965.376,1018.232,39320.792,38.1,,scheduled_commercial_banks,jammu and kashmir,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+2,,,,880.316,,2249.697,38.8,257.248,regional_rural_banks,jammu and kashmir,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+3,1561.054,5575.336,2934.387,16530.383,1171.799,48906.457,33.8,,scheduled_commercial_banks,jammu and kashmir,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+4,,,,978.129,,2543.136,39.6,260.182,regional_rural_banks,jammu and kashmir,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+5,2731.845,7042.53,4010.329,21421.028,1334.168,58100.871,36.9,,scheduled_commercial_banks,jammu and kashmir,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+6,,,,1271.568,,2836.575,43.6,267.029,regional_rural_banks,jammu and kashmir,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+7,4097.767,8509.724,5086.272,26116.048,1501.428,65143.401,40.1,,scheduled_commercial_banks,jammu and kashmir,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+8,,,,1369.381,,3032.2,45.2,268.986,regional_rural_banks,jammu and kashmir,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+9,5170.992,10368.169,5868.775,30419.816,1598.263,72088.118,42.2,,scheduled_commercial_banks,jammu and kashmir,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+10,,,,1692.163,,3531.046,47.9,318.87,regional_rural_banks,jammu and kashmir,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+11,5366.124,13009.118,6162.214,34625.772,1668.688,78543.77,44.2,,scheduled_commercial_banks,jammu and kashmir,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+12,,,,1672.601,,3941.86,42.4,320.826,regional_rural_banks,jammu and kashmir,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+13,5463.69,14476.311,6162.214,36380.535,1702.923,91304.443,39.8,,scheduled_commercial_banks,jammu and kashmir,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+14,,,,1956.258,,4499.394,43.5,352.126,regional_rural_banks,jammu and kashmir,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+15,6146.651,18584.454,7727.22,43624.56,1744.004,101725.431,42.9,,scheduled_commercial_banks,jammu and kashmir,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+16,,,,2264.369,,4754.686,47.6,335.498,regional_rural_banks,jammu and kashmir,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+17,6725.217,24209.674,8638.837,53094.806,1789.976,115538.571,45.5,,scheduled_commercial_banks,jammu and kashmir,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+18,,,,2626.0,,5190.0,50.6,337.0,regional_rural_banks,jammu and kashmir,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+19,7240.0,28313.0,9538.0,59202.0,1767.0,128026.0,45.8,,scheduled_commercial_banks,jammu and kashmir,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+20,,,,3084.0,,5668.0,54.4,345.0,regional_rural_banks,jammu and kashmir,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+21,9039.0,34569.0,,69908.0,1800.0,142897.0,48.5,,scheduled_commercial_banks,jammu and kashmir,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+22,,,,700.0,,1600.0,42.6,156.0,regional_rural_banks,himachal pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+23,2400.0,3900.0,5800.0,13500.0,1077.0,32400.0,41.6,,scheduled_commercial_banks,himachal pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+24,,,,800.0,,1900.0,42.8,160.0,regional_rural_banks,himachal pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+25,2800.0,4100.0,5700.0,14800.0,1164.0,38000.0,38.9,,scheduled_commercial_banks,himachal pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+26,,,,900.0,,2100.0,43.4,187.0,regional_rural_banks,himachal pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+27,3300.0,4400.0,6300.0,15800.0,1264.0,45000.0,35.1,,scheduled_commercial_banks,himachal pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+28,,,,1000.0,,2500.0,39.3,188.0,regional_rural_banks,himachal pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+29,4100.0,5700.0,5000.0,18600.0,1386.0,52000.0,35.8,,scheduled_commercial_banks,himachal pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+30,,,,1000.0,,3000.0,33.3,188.0,regional_rural_banks,himachal pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+31,4500.0,6000.0,5300.0,21100.0,1466.0,59900.0,35.3,,scheduled_commercial_banks,himachal pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+32,,,,1170.0,,3260.0,35.9,188.0,regional_rural_banks,himachal pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+33,5900.0,6400.0,4700.0,21800.0,1510.0,66300.0,32.9,,scheduled_commercial_banks,himachal pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+34,,,,1290.0,,3970.0,32.5,186.0,regional_rural_banks,himachal pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+35,5700.0,7900.0,4400.0,23339.0,1542.0,78523.0,29.7,,scheduled_commercial_banks,himachal pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+36,,,,1400.0,,4300.0,32.6,187.0,regional_rural_banks,himachal pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+37,5800.0,9500.0,4600.0,26400.0,1531.0,84900.0,31.1,,scheduled_commercial_banks,himachal pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+38,,,,1848.0,,5098.0,36.3,269.0,regional_rural_banks,himachal pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+39,6560.0,11112.0,4641.0,30332.0,1635.0,95529.0,30.8,,scheduled_commercial_banks,himachal pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+40,,,,2117.0,,5811.0,36.4,270.0,regional_rural_banks,himachal pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+41,6525.0,12446.0,5034.0,32327.0,1652.0,103545.0,30.2,,scheduled_commercial_banks,himachal pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+42,,,,2443.0,,6478.0,37.7,270.0,regional_rural_banks,himachal pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+43,6879.0,14569.0,5748.0,35899.0,1683.0,112344.0,30.9,,scheduled_commercial_banks,himachal pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+44,,,,2100.0,,3000.0,69.4,251.0,regional_rural_banks,punjab,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+45,26300.0,17900.0,64400.0,119000.0,3895.0,152800.0,77.8,,scheduled_commercial_banks,punjab,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+46,,,,2600.0,,3500.0,74.8,277.0,regional_rural_banks,punjab,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+47,31200.0,18600.0,56500.0,139900.0,4346.0,172900.0,80.9,,scheduled_commercial_banks,punjab,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+48,,,,3100.0,,3900.0,79.9,300.0,regional_rural_banks,punjab,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+49,36700.0,20500.0,64700.0,163000.0,4854.0,199800.0,81.6,,scheduled_commercial_banks,punjab,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+50,,,,3700.0,,4500.0,82.2,311.0,regional_rural_banks,punjab,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+51,50000.0,26700.0,66500.0,182000.0,5547.0,230000.0,79.1,,scheduled_commercial_banks,punjab,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+52,,,,4500.0,,5200.0,86.5,367.0,regional_rural_banks,punjab,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+53,57200.0,28500.0,70900.0,196600.0,6024.0,262000.0,75.1,,scheduled_commercial_banks,punjab,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+54,,,,5240.0,,6070.0,86.3,387.0,regional_rural_banks,punjab,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+55,62000.0,31200.0,67700.0,202400.0,6168.0,290100.0,69.8,,scheduled_commercial_banks,punjab,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+56,,,,5850.0,,7200.0,81.3,403.0,regional_rural_banks,punjab,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+57,66400.0,35600.0,65100.0,228314.0,6366.0,330956.0,69.0,,scheduled_commercial_banks,punjab,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+58,,,,6400.0,,7300.0,87.7,422.0,regional_rural_banks,punjab,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+59,71100.0,42900.0,70600.0,220900.0,6474.0,347800.0,63.5,,scheduled_commercial_banks,punjab,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+60,,,,6702.0,,8156.0,82.2,421.0,regional_rural_banks,punjab,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+61,69234.0,48503.0,61008.0,236211.0,6614.0,379577.0,60.3,,scheduled_commercial_banks,punjab,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+62,,,,6846.0,,8860.0,77.3,426.0,regional_rural_banks,punjab,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+63,67532.0,56495.0,58150.0,244057.0,6735.0,410987.0,57.1,,scheduled_commercial_banks,punjab,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+64,,,,7627.0,,10133.0,75.3,429.0,regional_rural_banks,punjab,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+65,66375.0,64554.0,61886.0,263532.0,6700.0,459027.0,55.0,,scheduled_commercial_banks,punjab,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+66,,,,,,,,,regional_rural_banks,chandigarh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+67,6600.0,5000.0,17500.0,46200.0,337.0,38000.0,121.6,,scheduled_commercial_banks,chandigarh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+68,,,,,,,,,regional_rural_banks,chandigarh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+69,4400.0,5800.0,23000.0,45500.0,363.0,39400.0,115.5,,scheduled_commercial_banks,chandigarh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+70,,,,,,,,,regional_rural_banks,chandigarh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+71,4800.0,6000.0,29600.0,57900.0,383.0,45400.0,127.5,,scheduled_commercial_banks,chandigarh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+72,,,,,,,,,regional_rural_banks,chandigarh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+73,3700.0,6300.0,33100.0,57900.0,408.0,48300.0,120.0,,scheduled_commercial_banks,chandigarh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+74,,,,,,,,,regional_rural_banks,chandigarh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+75,2500.0,7600.0,36300.0,58700.0,439.0,55400.0,105.9,,scheduled_commercial_banks,chandigarh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+76,,,,,,,,,regional_rural_banks,chandigarh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+77,2500.0,8000.0,32000.0,54400.0,433.0,55600.0,97.8,,scheduled_commercial_banks,chandigarh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+78,,,,,,,,,regional_rural_banks,chandigarh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+79,2100.0,9100.0,33800.0,60025.0,444.0,59618.0,100.7,,scheduled_commercial_banks,chandigarh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+80,,,,,,,,,regional_rural_banks,chandigarh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+81,2500.0,10300.0,34900.0,69700.0,441.0,61900.0,112.5,,scheduled_commercial_banks,chandigarh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+82,,,,,,,,,regional_rural_banks,chandigarh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+83,3755.0,11386.0,36896.0,77956.0,442.0,68300.0,111.4,,scheduled_commercial_banks,chandigarh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+84,,,,,,,,,regional_rural_banks,chandigarh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+85,2840.0,13326.0,36404.0,78002.0,454.0,72552.0,108.5,,scheduled_commercial_banks,chandigarh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+86,,,,,,,,,regional_rural_banks,chandigarh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+87,1414.0,14834.0,30877.0,80793.0,442.0,81320.0,96.1,,scheduled_commercial_banks,chandigarh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+88,,,,900.0,,1600.0,55.5,190.0,regional_rural_banks,uttarakhand,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+89,3600.0,5500.0,5500.0,17200.0,1278.0,48700.0,35.4,,scheduled_commercial_banks,uttarakhand,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+90,,,,1000.0,,1800.0,55.1,214.0,regional_rural_banks,uttarakhand,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+91,4200.0,6100.0,6800.0,20100.0,1450.0,56400.0,35.6,,scheduled_commercial_banks,uttarakhand,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+92,,,,1200.0,,2200.0,57.6,231.0,regional_rural_banks,uttarakhand,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+93,4800.0,7200.0,7200.0,23000.0,1586.0,65900.0,34.8,,scheduled_commercial_banks,uttarakhand,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+94,,,,1500.0,,2500.0,61.3,243.0,regional_rural_banks,uttarakhand,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+95,6400.0,8600.0,6800.0,27100.0,1739.0,76000.0,35.6,,scheduled_commercial_banks,uttarakhand,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+96,,,,1800.0,,2900.0,62.1,262.0,regional_rural_banks,uttarakhand,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+97,6800.0,9700.0,7000.0,30600.0,1903.0,88600.0,34.5,,scheduled_commercial_banks,uttarakhand,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+98,,,,1950.0,,3210.0,60.7,288.0,regional_rural_banks,uttarakhand,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+99,7300.0,11600.0,6900.0,33700.0,1978.0,96500.0,34.9,,scheduled_commercial_banks,uttarakhand,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+100,,,,1990.0,,4010.0,49.6,292.0,regional_rural_banks,uttarakhand,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+101,8000.0,13500.0,8800.0,39094.0,2029.0,114114.0,34.3,,scheduled_commercial_banks,uttarakhand,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+102,,,,2100.0,,4400.0,47.7,292.0,regional_rural_banks,uttarakhand,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+103,8200.0,16700.0,9900.0,44600.0,2049.0,122500.0,36.4,,scheduled_commercial_banks,uttarakhand,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+104,,,,2458.0,,4992.0,49.2,287.0,regional_rural_banks,uttarakhand,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+105,8639.0,19563.0,11596.0,53036.0,2126.0,137040.0,37.6,,scheduled_commercial_banks,uttarakhand,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+106,,,,2438.0,,5482.0,44.5,287.0,regional_rural_banks,uttarakhand,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+107,8493.0,22591.0,12309.0,56551.0,2194.0,149549.0,36.5,,scheduled_commercial_banks,uttarakhand,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+108,,,,2608.0,,6024.0,43.3,287.0,regional_rural_banks,uttarakhand,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+109,8216.0,25461.0,12779.0,60740.0,2220.0,165333.0,35.3,,scheduled_commercial_banks,uttarakhand,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+110,,,,5100.0,,7400.0,69.0,416.0,regional_rural_banks,haryana,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+111,19400.0,20600.0,38700.0,92800.0,2690.0,129400.0,71.7,,scheduled_commercial_banks,haryana,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+112,,,,4900.0,,7000.0,69.4,446.0,regional_rural_banks,haryana,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+113,23100.0,19500.0,51800.0,115800.0,3022.0,145800.0,79.4,,scheduled_commercial_banks,haryana,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+114,,,,5500.0,,8500.0,65.4,508.0,regional_rural_banks,haryana,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+115,25800.0,23100.0,57200.0,129700.0,3412.0,169400.0,76.5,,scheduled_commercial_banks,haryana,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+116,,,,5800.0,,8700.0,66.8,542.0,regional_rural_banks,haryana,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+117,33200.0,31800.0,59200.0,150900.0,3962.0,193300.0,78.1,,scheduled_commercial_banks,haryana,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+118,,,,6300.0,,9000.0,70.0,597.0,regional_rural_banks,haryana,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+119,34800.0,37600.0,65000.0,168900.0,4407.0,222700.0,75.8,,scheduled_commercial_banks,haryana,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+120,,,,6990.0,,9900.0,71.3,610.0,regional_rural_banks,haryana,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+121,39500.0,42000.0,63400.0,176500.0,4567.0,252600.0,69.9,,scheduled_commercial_banks,haryana,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+122,,,,7670.0,,11840.0,64.8,642.0,regional_rural_banks,haryana,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+123,43600.0,49700.0,68100.0,183071.0,4762.0,309629.0,59.1,,scheduled_commercial_banks,haryana,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+124,,,,8800.0,,13500.0,65.2,664.0,regional_rural_banks,haryana,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+125,47900.0,61900.0,67200.0,214900.0,4842.0,366400.0,58.6,,scheduled_commercial_banks,haryana,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+126,,,,9524.0,,14548.0,65.5,666.0,regional_rural_banks,haryana,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+127,50376.0,70184.0,74907.0,278875.0,5008.0,409974.0,61.1,,scheduled_commercial_banks,haryana,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+128,,,,10152.0,,16189.0,62.7,666.0,regional_rural_banks,haryana,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+129,50436.0,83109.0,83374.0,308058.0,5224.0,475352.0,54.8,,scheduled_commercial_banks,haryana,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+130,,,,10696.0,,17652.0,60.6,666.0,regional_rural_banks,haryana,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+131,51275.0,94627.0,85225.0,321936.0,5225.0,538565.0,53.4,,scheduled_commercial_banks,haryana,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+132,,,,,,,,,regional_rural_banks,delhi,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+133,20300.0,50100.0,225100.0,552000.0,2629.0,635900.0,86.8,,scheduled_commercial_banks,delhi,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+134,,,,,,,,,regional_rural_banks,delhi,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+135,19800.0,58000.0,322100.0,653700.0,2876.0,684100.0,95.6,,scheduled_commercial_banks,delhi,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+136,,,,,,,,,regional_rural_banks,delhi,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+137,16300.0,58000.0,391800.0,734600.0,3045.0,752200.0,97.7,,scheduled_commercial_banks,delhi,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+138,,,,,,,,,regional_rural_banks,delhi,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+139,27900.0,73100.0,493100.0,844400.0,3255.0,814700.0,103.7,,scheduled_commercial_banks,delhi,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+140,,,,,,,,,regional_rural_banks,delhi,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+141,20500.0,66100.0,515400.0,907300.0,3447.0,884400.0,102.6,,scheduled_commercial_banks,delhi,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+142,,,,,,,,,regional_rural_banks,delhi,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+143,24600.0,78600.0,565300.0,970500.0,3511.0,967000.0,100.4,,scheduled_commercial_banks,delhi,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+144,,,,,,,,,regional_rural_banks,delhi,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+145,20400.0,84600.0,562300.0,965047.0,3615.0,1092455.0,88.3,,scheduled_commercial_banks,delhi,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+146,,,,,,,,,regional_rural_banks,delhi,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+147,33400.0,99300.0,594600.0,1077000.0,3613.0,1144600.0,94.1,,scheduled_commercial_banks,delhi,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+148,,,,0.0,,,,,regional_rural_banks,delhi,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+149,35522.0,100540.0,671544.0,1314165.0,3716.0,1210108.0,107.4,,scheduled_commercial_banks,delhi,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+150,,,,0.0,,,,,regional_rural_banks,delhi,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+151,30271.0,116885.0,669143.0,1370412.0,3825.0,1238245.0,110.2,,scheduled_commercial_banks,delhi,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+152,,,,0.0,,,,,regional_rural_banks,delhi,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+153,24771.0,123903.0,618927.0,1353058.0,3747.0,1400864.0,93.9,,scheduled_commercial_banks,delhi,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+154,,,,7100.0,,9800.0,71.8,1049.0,regional_rural_banks,rajasthan,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+155,26800.0,20800.0,49500.0,115700.0,4507.0,128000.0,90.4,,scheduled_commercial_banks,rajasthan,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+156,,,,8200.0,,11400.0,72.3,1100.0,regional_rural_banks,rajasthan,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+157,33200.0,22700.0,56400.0,136900.0,4936.0,150600.0,90.9,,scheduled_commercial_banks,rajasthan,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+158,,,,9300.0,,12400.0,74.7,1159.0,regional_rural_banks,rajasthan,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+159,41200.0,27400.0,74200.0,163200.0,5359.0,176300.0,92.6,,scheduled_commercial_banks,rajasthan,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+160,,,,10300.0,,13600.0,75.9,1198.0,regional_rural_banks,rajasthan,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+161,50800.0,31800.0,67000.0,175300.0,5907.0,201300.0,87.1,,scheduled_commercial_banks,rajasthan,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+162,,,,11800.0,,15300.0,77.1,1324.0,regional_rural_banks,rajasthan,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+163,56400.0,38000.0,76100.0,203000.0,6426.0,235500.0,86.2,,scheduled_commercial_banks,rajasthan,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+164,,,,13600.0,,17000.0,79.0,1403.0,regional_rural_banks,rajasthan,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+165,66000.0,47500.0,39900.0,187500.0,6805.0,258900.0,72.4,,scheduled_commercial_banks,rajasthan,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+166,,,,15210.0,,21300.0,71.4,1489.0,regional_rural_banks,rajasthan,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+167,75900.0,56900.0,42200.0,212779.0,7011.0,313673.0,67.8,,scheduled_commercial_banks,rajasthan,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+168,,,,17300.0,,22900.0,75.5,1551.0,regional_rural_banks,rajasthan,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+169,84200.0,70500.0,49000.0,255700.0,7184.0,334000.0,76.6,,scheduled_commercial_banks,rajasthan,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+170,,,,19781.0,,26238.0,75.4,1575.0,regional_rural_banks,rajasthan,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+171,93432.0,84627.0,57643.0,325240.0,7391.0,379008.0,81.4,,scheduled_commercial_banks,rajasthan,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+172,,,,21528.0,,29870.0,72.1,1579.0,regional_rural_banks,rajasthan,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+173,97719.0,100363.0,59655.0,352425.0,7775.0,420150.0,79.6,,scheduled_commercial_banks,rajasthan,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+174,,,,25229.0,,34388.0,73.4,1588.0,regional_rural_banks,rajasthan,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+175,104797.0,114845.0,69401.0,388631.0,7871.0,474438.0,77.9,,scheduled_commercial_banks,rajasthan,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+176,,,,16400.0,,35400.0,46.5,3092.0,regional_rural_banks,uttar pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+177,43600.0,34100.0,54100.0,163300.0,11040.0,371500.0,44.0,,scheduled_commercial_banks,uttar pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+178,,,,20400.0,,39200.0,51.9,3171.0,regional_rural_banks,uttar pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+179,53300.0,37300.0,64800.0,189700.0,12096.0,431000.0,44.0,,scheduled_commercial_banks,uttar pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+180,,,,23300.0,,44300.0,52.5,3396.0,regional_rural_banks,uttar pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+181,64500.0,46300.0,85100.0,225200.0,13092.0,511100.0,44.1,,scheduled_commercial_banks,uttar pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+182,,,,28000.0,,48900.0,57.3,3604.0,regional_rural_banks,uttar pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+183,82300.0,54900.0,89000.0,266600.0,14694.0,597700.0,44.6,,scheduled_commercial_banks,uttar pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+184,,,,32200.0,,55100.0,58.4,3828.0,regional_rural_banks,uttar pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+185,93200.0,64900.0,102800.0,305500.0,15773.0,672500.0,45.4,,scheduled_commercial_banks,uttar pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+186,,,,37480.0,,62700.0,59.6,4005.0,regional_rural_banks,uttar pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+187,107700.0,78300.0,96100.0,330900.0,16264.0,742200.0,44.6,,scheduled_commercial_banks,uttar pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+188,,,,41700.0,,75610.0,55.2,4188.0,regional_rural_banks,uttar pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+189,122300.0,90600.0,82800.0,354027.0,16774.0,885163.0,40.0,,scheduled_commercial_banks,uttar pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+190,,,,44700.0,,81900.0,54.6,4304.0,regional_rural_banks,uttar pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+191,124100.0,113000.0,79600.0,392700.0,17022.0,953600.0,41.2,,scheduled_commercial_banks,uttar pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+192,,,,50907.0,,86646.0,58.8,4323.0,regional_rural_banks,uttar pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+193,139491.0,130377.0,84801.0,470245.0,17462.0,1041507.0,42.7,,scheduled_commercial_banks,uttar pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+194,,,,52614.0,,93839.0,56.1,4330.0,regional_rural_banks,uttar pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+195,146162.0,152681.0,91950.0,507550.0,18041.0,1144902.0,41.5,,scheduled_commercial_banks,uttar pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+196,,,,57590.0,,102629.0,56.1,4360.0,regional_rural_banks,uttar pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+197,159257.0,176301.0,102032.0,565113.0,18125.0,1277878.0,41.5,,scheduled_commercial_banks,uttar pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+198,,,,6000.0,,13700.0,43.5,1521.0,regional_rural_banks,bihar,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+199,12200.0,11700.0,4600.0,35200.0,4323.0,119200.0,29.5,,scheduled_commercial_banks,bihar,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+200,,,,7000.0,,15100.0,46.7,1537.0,regional_rural_banks,bihar,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+201,15400.0,13500.0,4900.0,41400.0,4650.0,139300.0,29.7,,scheduled_commercial_banks,bihar,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+202,,,,7900.0,,16000.0,49.1,1555.0,regional_rural_banks,bihar,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+203,20600.0,15600.0,7300.0,49800.0,4990.0,163500.0,30.5,,scheduled_commercial_banks,bihar,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+204,,,,10000.0,,18400.0,54.4,1672.0,regional_rural_banks,bihar,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+205,25500.0,17500.0,7800.0,62500.0,5696.0,190400.0,32.8,,scheduled_commercial_banks,bihar,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+206,,,,11700.0,,21200.0,55.2,1950.0,regional_rural_banks,bihar,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+207,28200.0,18500.0,8800.0,72900.0,6210.0,216800.0,33.6,,scheduled_commercial_banks,bihar,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+208,,,,13220.0,,24370.0,50.7,2056.0,regional_rural_banks,bihar,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+209,30100.0,22200.0,9700.0,81200.0,6445.0,243000.0,33.4,,scheduled_commercial_banks,bihar,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+210,,,,14620.0,,28990.0,50.4,2097.0,regional_rural_banks,bihar,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+211,34400.0,26300.0,9500.0,91294.0,6602.0,295173.0,30.9,,scheduled_commercial_banks,bihar,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+212,,,,16100.0,,30900.0,52.1,2117.0,regional_rural_banks,bihar,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+213,35600.0,31300.0,12400.0,101200.0,6711.0,314800.0,32.2,,scheduled_commercial_banks,bihar,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+214,,,,17686.0,,33898.0,52.2,2104.0,regional_rural_banks,bihar,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+215,39598.0,37853.0,14656.0,124996.0,6917.0,353169.0,34.7,,scheduled_commercial_banks,bihar,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+216,,,,18883.0,,36589.0,51.6,2124.0,regional_rural_banks,bihar,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+217,43460.0,44537.0,14131.0,139590.0,7463.0,375707.0,36.1,,scheduled_commercial_banks,bihar,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+218,,,,20390.0,,36671.0,55.6,2124.0,regional_rural_banks,bihar,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+219,49605.0,53366.0,18683.0,163964.0,7584.0,397492.0,40.1,,scheduled_commercial_banks,bihar,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+220,,,,,,,,,regional_rural_banks,sikkim,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+221,0.0,700.0,1000.0,1200.0,82.0,3300.0,37.9,,scheduled_commercial_banks,sikkim,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+222,,,,,,,,,regional_rural_banks,sikkim,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+223,0.0,700.0,1100.0,1300.0,89.0,4000.0,33.1,,scheduled_commercial_banks,sikkim,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+224,,,,,,,,,regional_rural_banks,sikkim,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+225,100.0,800.0,600.0,1300.0,98.0,4900.0,27.2,,scheduled_commercial_banks,sikkim,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+226,,,,,,,,,regional_rural_banks,sikkim,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+227,100.0,800.0,700.0,1400.0,113.0,5200.0,26.5,,scheduled_commercial_banks,sikkim,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+228,,,,,,,,,regional_rural_banks,sikkim,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+229,100.0,800.0,800.0,1500.0,122.0,5700.0,25.6,,scheduled_commercial_banks,sikkim,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+230,,,,,,,,,regional_rural_banks,sikkim,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+231,100.0,1000.0,500.0,1700.0,128.0,6300.0,28.0,,scheduled_commercial_banks,sikkim,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+232,,,,,,,,,regional_rural_banks,sikkim,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+233,100.0,1100.0,400.0,1905.0,131.0,6954.0,27.4,,scheduled_commercial_banks,sikkim,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+234,,,,,,,,,regional_rural_banks,sikkim,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+235,100.0,1400.0,400.0,2300.0,137.0,8500.0,26.6,,scheduled_commercial_banks,sikkim,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+236,,,,,,,,,regional_rural_banks,sikkim,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+237,140.0,1541.0,348.0,2921.0,143.0,9632.0,28.4,,scheduled_commercial_banks,sikkim,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+238,,,,,,,,,regional_rural_banks,sikkim,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+239,154.0,1844.0,186.0,3216.0,162.0,10130.0,31.2,,scheduled_commercial_banks,sikkim,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+240,,,,,,,,,regional_rural_banks,sikkim,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+241,169.0,2232.0,209.0,3847.0,164.0,10604.0,35.8,,scheduled_commercial_banks,sikkim,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+242,,,,,,200.0,21.5,18.0,regional_rural_banks,andhra pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+243,100.0,700.0,400.0,1200.0,86.0,5200.0,23.7,,scheduled_commercial_banks,andhra pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+244,,,,,,200.0,17.1,18.0,regional_rural_banks,andhra pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+245,100.0,800.0,300.0,1400.0,96.0,5800.0,23.9,,scheduled_commercial_banks,andhra pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+246,,,,0.0,,200.0,21.6,18.0,regional_rural_banks,andhra pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+247,100.0,900.0,1300.0,1500.0,106.0,7000.0,21.8,,scheduled_commercial_banks,andhra pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+248,,,,100.0,,300.0,18.0,21.0,regional_rural_banks,andhra pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+249,100.0,1000.0,200.0,1800.0,128.0,7500.0,23.7,,scheduled_commercial_banks,andhra pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+250,,,,100.0,,400.0,25.0,28.0,regional_rural_banks,andhra pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+251,200.0,1200.0,300.0,2200.0,135.0,8000.0,26.8,,scheduled_commercial_banks,andhra pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+252,,,,120.0,,450.0,26.7,29.0,regional_rural_banks,andhra pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+253,100.0,1400.0,200.0,2500.0,143.0,8700.0,29.0,,scheduled_commercial_banks,andhra pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+254,,,,140.0,,570.0,24.6,29.0,regional_rural_banks,andhra pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+255,200.0,1700.0,300.0,2843.0,151.0,11866.0,24.0,,scheduled_commercial_banks,andhra pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+256,,,,200.0,,600.0,33.3,30.0,regional_rural_banks,andhra pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+257,400.0,2300.0,400.0,3400.0,153.0,13400.0,25.0,,scheduled_commercial_banks,andhra pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+258,,,,198.0,,656.0,30.1,30.0,regional_rural_banks,andhra pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+259,182.0,2473.0,286.0,3869.0,155.0,16659.0,23.0,,scheduled_commercial_banks,andhra pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+260,,,,162.0,,730.0,22.1,31.0,regional_rural_banks,andhra pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+261,241.0,2900.0,269.0,4338.0,164.0,17171.0,24.9,,scheduled_commercial_banks,andhra pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+262,,,,200.0,,837.0,23.9,32.0,regional_rural_banks,andhra pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+263,248.0,3678.0,477.0,5897.0,169.0,19525.0,25.2,,scheduled_commercial_banks,andhra pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+264,,,,,,0.0,26.2,8.0,regional_rural_banks,nagaland,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+265,100.0,800.0,200.0,1400.0,95.0,5200.0,26.1,,scheduled_commercial_banks,nagaland,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+266,,,,,,100.0,28.0,9.0,regional_rural_banks,nagaland,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+267,200.0,900.0,300.0,1600.0,108.0,5700.0,27.2,,scheduled_commercial_banks,nagaland,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+268,,,,,,100.0,30.0,9.0,regional_rural_banks,nagaland,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+269,400.0,1100.0,400.0,1800.0,124.0,6300.0,28.4,,scheduled_commercial_banks,nagaland,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+270,,,,,,100.0,33.6,10.0,regional_rural_banks,nagaland,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+271,200.0,1200.0,400.0,2000.0,141.0,6500.0,31.0,,scheduled_commercial_banks,nagaland,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+272,,,,,,100.0,0.0,10.0,regional_rural_banks,nagaland,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+273,200.0,1400.0,400.0,2300.0,145.0,6900.0,32.7,,scheduled_commercial_banks,nagaland,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+274,,,,22.0,,67.0,32.8,10.0,regional_rural_banks,nagaland,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+275,200.0,1600.0,300.0,2600.0,150.0,7700.0,34.1,,scheduled_commercial_banks,nagaland,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+276,,,,20.0,,90.0,22.2,10.0,regional_rural_banks,nagaland,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+277,300.0,1900.0,400.0,2970.0,157.0,9422.0,31.5,,scheduled_commercial_banks,nagaland,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+278,,,,,,100.0,0.0,10.0,regional_rural_banks,nagaland,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+279,300.0,2300.0,400.0,3500.0,160.0,10000.0,34.7,,scheduled_commercial_banks,nagaland,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+280,,,,30.0,,101.0,29.4,11.0,regional_rural_banks,nagaland,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+281,255.0,2757.0,344.0,3991.0,164.0,11183.0,35.4,,scheduled_commercial_banks,nagaland,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+282,,,,34.0,,114.0,29.8,11.0,regional_rural_banks,nagaland,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+283,249.0,3380.0,342.0,4644.0,176.0,12242.0,37.5,,scheduled_commercial_banks,nagaland,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+284,,,,33.0,,117.0,28.2,11.0,regional_rural_banks,nagaland,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+285,281.0,4235.0,1855.0,7208.0,180.0,12579.0,43.2,,scheduled_commercial_banks,nagaland,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+286,,,,,,100.0,34.7,27.0,regional_rural_banks,manipur,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+287,200.0,700.0,100.0,1200.0,83.0,3400.0,34.8,,scheduled_commercial_banks,manipur,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+288,,,,,,100.0,27.1,27.0,regional_rural_banks,manipur,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+289,300.0,700.0,100.0,1300.0,94.0,4100.0,31.3,,scheduled_commercial_banks,manipur,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+290,,,,0.0,,100.0,34.6,27.0,regional_rural_banks,manipur,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+291,300.0,800.0,200.0,1500.0,111.0,5100.0,28.6,,scheduled_commercial_banks,manipur,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+292,,,,100.0,,100.0,38.5,27.0,regional_rural_banks,manipur,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+293,400.0,900.0,200.0,1700.0,134.0,5100.0,33.6,,scheduled_commercial_banks,manipur,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+294,,,,100.0,,200.0,50.0,21.0,regional_rural_banks,manipur,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+295,300.0,1100.0,200.0,1900.0,138.0,5700.0,34.0,,scheduled_commercial_banks,manipur,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+296,,,,90.0,,215.0,41.9,21.0,regional_rural_banks,manipur,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+297,400.0,1500.0,100.0,2400.0,150.0,6000.0,41.1,,scheduled_commercial_banks,manipur,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+298,,,,110.0,,280.0,39.3,21.0,regional_rural_banks,manipur,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+299,500.0,1900.0,200.0,3005.0,159.0,7774.0,38.7,,scheduled_commercial_banks,manipur,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+300,,,,100.0,,300.0,33.3,23.0,regional_rural_banks,manipur,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+301,500.0,2700.0,200.0,4000.0,176.0,9000.0,44.6,,scheduled_commercial_banks,manipur,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+302,,,,140.0,,315.0,44.4,28.0,regional_rural_banks,manipur,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+303,478.0,3306.0,280.0,4946.0,192.0,9927.0,49.4,,scheduled_commercial_banks,manipur,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+304,,,,163.0,,316.0,51.7,27.0,regional_rural_banks,manipur,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+305,520.0,4292.0,345.0,6129.0,203.0,10369.0,57.2,,scheduled_commercial_banks,manipur,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+306,,,,190.0,,381.0,49.7,27.0,regional_rural_banks,manipur,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+307,470.0,5262.0,429.0,7405.0,210.0,12323.0,57.7,,scheduled_commercial_banks,manipur,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+308,,,,200.0,,400.0,54.0,59.0,regional_rural_banks,mizoram,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+309,200.0,800.0,100.0,1200.0,100.0,2500.0,46.0,,scheduled_commercial_banks,mizoram,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+310,,,,400.0,,900.0,41.7,58.0,regional_rural_banks,mizoram,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+311,200.0,900.0,100.0,1300.0,111.0,3400.0,38.9,,scheduled_commercial_banks,mizoram,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+312,,,,500.0,,1000.0,44.7,59.0,regional_rural_banks,mizoram,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+313,300.0,900.0,200.0,1500.0,122.0,4100.0,35.3,,scheduled_commercial_banks,mizoram,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+314,,,,500.0,,1000.0,50.2,58.0,regional_rural_banks,mizoram,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+315,300.0,1100.0,100.0,1800.0,141.0,4700.0,37.8,,scheduled_commercial_banks,mizoram,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+316,,,,700.0,,1400.0,50.0,64.0,regional_rural_banks,mizoram,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+317,400.0,1200.0,100.0,2000.0,151.0,5300.0,37.8,,scheduled_commercial_banks,mizoram,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+318,,,,860.0,,1520.0,56.6,80.0,regional_rural_banks,mizoram,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+319,300.0,1500.0,100.0,2300.0,167.0,5900.0,40.1,,scheduled_commercial_banks,mizoram,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+320,,,,950.0,,1820.0,52.2,85.0,regional_rural_banks,mizoram,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+321,300.0,1700.0,100.0,2607.0,186.0,7166.0,36.4,,scheduled_commercial_banks,mizoram,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+322,,,,1100.0,,2100.0,52.4,86.0,regional_rural_banks,mizoram,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+323,400.0,1900.0,300.0,3000.0,190.0,8500.0,35.8,,scheduled_commercial_banks,mizoram,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+324,,,,1231.0,,2600.0,47.4,86.0,regional_rural_banks,mizoram,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+325,405.0,2106.0,547.0,3837.0,192.0,9255.0,36.8,,scheduled_commercial_banks,mizoram,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+326,,,,1536.0,,3478.0,44.2,88.0,regional_rural_banks,mizoram,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+327,397.0,2671.0,275.0,4174.0,203.0,11332.0,36.1,,scheduled_commercial_banks,mizoram,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+328,,,,2050.0,,4155.0,49.3,92.0,regional_rural_banks,mizoram,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+329,475.0,3229.0,408.0,5063.0,210.0,12000.0,42.0,,scheduled_commercial_banks,mizoram,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+330,,,,1000.0,,2300.0,44.0,113.0,regional_rural_banks,tripura,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+331,400.0,1200.0,300.0,2800.0,247.0,8600.0,32.2,,scheduled_commercial_banks,tripura,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+332,,,,1200.0,,2800.0,42.4,113.0,regional_rural_banks,tripura,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+333,500.0,1400.0,300.0,3300.0,271.0,10400.0,31.3,,scheduled_commercial_banks,tripura,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+334,,,,1300.0,,3000.0,44.4,114.0,regional_rural_banks,tripura,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+335,700.0,1800.0,400.0,3900.0,301.0,11800.0,32.8,,scheduled_commercial_banks,tripura,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+336,,,,1500.0,,3600.0,40.7,125.0,regional_rural_banks,tripura,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+337,800.0,1800.0,400.0,4400.0,354.0,13500.0,32.4,,scheduled_commercial_banks,tripura,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+338,,,,1600.0,,4100.0,39.0,128.0,regional_rural_banks,tripura,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+339,800.0,2200.0,600.0,5200.0,379.0,15500.0,33.7,,scheduled_commercial_banks,tripura,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+340,,,,1844.0,,4790.0,38.5,137.0,regional_rural_banks,tripura,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+341,1700.0,2300.0,400.0,6100.0,424.0,17300.0,35.3,,scheduled_commercial_banks,tripura,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+342,,,,1990.0,,5380.0,37.0,144.0,regional_rural_banks,tripura,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+343,1900.0,2400.0,1400.0,7354.0,442.0,20481.0,35.9,,scheduled_commercial_banks,tripura,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+344,,,,2400.0,,5900.0,40.7,144.0,regional_rural_banks,tripura,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+345,2200.0,2900.0,1400.0,9000.0,455.0,22000.0,40.7,,scheduled_commercial_banks,tripura,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+346,,,,2576.0,,6692.0,38.5,149.0,regional_rural_banks,tripura,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+347,3001.0,3617.0,1107.0,10463.0,463.0,24880.0,41.7,,scheduled_commercial_banks,tripura,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+348,,,,2747.0,,7190.0,38.2,149.0,regional_rural_banks,tripura,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+349,2835.0,4248.0,883.0,11346.0,565.0,26487.0,42.5,,scheduled_commercial_banks,tripura,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+350,,,,2705.0,,7567.0,35.7,149.0,regional_rural_banks,tripura,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+351,2483.0,4873.0,907.0,12093.0,579.0,28400.0,42.1,,scheduled_commercial_banks,tripura,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+352,,,,200.0,,700.0,31.9,55.0,regional_rural_banks,meghalaya,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+353,200.0,1000.0,900.0,2300.0,221.0,9600.0,24.4,,scheduled_commercial_banks,meghalaya,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+354,,,,300.0,,800.0,34.4,55.0,regional_rural_banks,meghalaya,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+355,300.0,1100.0,1000.0,2900.0,237.0,11100.0,25.8,,scheduled_commercial_banks,meghalaya,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+356,,,,400.0,,1000.0,37.9,55.0,regional_rural_banks,meghalaya,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+357,300.0,1200.0,1200.0,3300.0,256.0,13700.0,24.0,,scheduled_commercial_banks,meghalaya,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+358,,,,400.0,,1000.0,45.9,55.0,regional_rural_banks,meghalaya,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+359,700.0,1300.0,1400.0,4000.0,286.0,14600.0,27.4,,scheduled_commercial_banks,meghalaya,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+360,,,,600.0,,1100.0,54.5,62.0,regional_rural_banks,meghalaya,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+361,500.0,1800.0,1200.0,4300.0,294.0,16600.0,25.9,,scheduled_commercial_banks,meghalaya,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+362,,,,620.0,,1240.0,50.0,79.0,regional_rural_banks,meghalaya,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+363,900.0,1900.0,800.0,4400.0,319.0,18100.0,24.8,,scheduled_commercial_banks,meghalaya,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+364,,,,660.0,,1800.0,36.7,91.0,regional_rural_banks,meghalaya,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+365,700.0,2500.0,900.0,5290.0,338.0,20450.0,25.9,,scheduled_commercial_banks,meghalaya,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+366,,,,700.0,,1800.0,38.9,93.0,regional_rural_banks,meghalaya,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+367,800.0,3100.0,1100.0,5800.0,343.0,21500.0,27.2,,scheduled_commercial_banks,meghalaya,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+368,,,,701.0,,2136.0,32.8,94.0,regional_rural_banks,meghalaya,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+369,1230.0,3552.0,1148.0,7448.0,346.0,24063.0,26.9,,scheduled_commercial_banks,meghalaya,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+370,,,,756.0,,2252.0,33.6,93.0,regional_rural_banks,meghalaya,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+371,572.0,4318.0,2175.0,8435.0,364.0,23756.0,35.3,,scheduled_commercial_banks,meghalaya,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+372,,,,842.0,,2678.0,31.4,93.0,regional_rural_banks,meghalaya,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+373,561.0,5056.0,1848.0,9785.0,367.0,25821.0,37.6,,scheduled_commercial_banks,meghalaya,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+374,,,,2200.0,,4700.0,48.0,409.0,regional_rural_banks,assam,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+375,2900.0,9100.0,4100.0,21400.0,1546.0,58500.0,36.5,,scheduled_commercial_banks,assam,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+376,,,,2800.0,,5200.0,53.7,407.0,regional_rural_banks,assam,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+377,4000.0,10400.0,5300.0,25100.0,1639.0,66600.0,37.7,,scheduled_commercial_banks,assam,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+378,,,,3300.0,,5800.0,56.4,408.0,regional_rural_banks,assam,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+379,5400.0,9700.0,6100.0,28500.0,1749.0,76700.0,37.2,,scheduled_commercial_banks,assam,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+380,,,,3800.0,,6800.0,55.8,408.0,regional_rural_banks,assam,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+381,6300.0,12800.0,6200.0,31600.0,1945.0,83800.0,37.7,,scheduled_commercial_banks,assam,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+382,,,,4200.0,,7900.0,53.2,465.0,regional_rural_banks,assam,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+383,7400.0,13200.0,6600.0,35700.0,2103.0,97400.0,36.7,,scheduled_commercial_banks,assam,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+384,,,,4440.0,,7930.0,56.0,465.0,regional_rural_banks,assam,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+385,9400.0,15500.0,7200.0,43200.0,2209.0,102300.0,42.2,,scheduled_commercial_banks,assam,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+386,,,,4520.0,,8540.0,52.9,479.0,regional_rural_banks,assam,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+387,10500.0,18200.0,8400.0,48754.0,2306.0,120976.0,40.3,,scheduled_commercial_banks,assam,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+388,,,,4300.0,,9300.0,46.2,481.0,regional_rural_banks,assam,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+389,11300.0,22900.0,8500.0,57200.0,2370.0,134300.0,42.6,,scheduled_commercial_banks,assam,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+390,,,,4140.0,,10148.0,40.8,481.0,regional_rural_banks,assam,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+391,12080.0,27327.0,8744.0,67360.0,2404.0,147091.0,44.3,,scheduled_commercial_banks,assam,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+392,,,,4044.0,,11113.0,36.4,482.0,regional_rural_banks,assam,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+393,12916.0,31826.0,8741.0,72954.0,2957.0,164299.0,43.0,,scheduled_commercial_banks,assam,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+394,,,,4406.0,,11504.0,38.3,482.0,regional_rural_banks,assam,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+395,12992.0,37876.0,8970.0,83235.0,3020.0,173014.0,46.7,,scheduled_commercial_banks,assam,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+396,,,,4400.0,,9800.0,45.2,886.0,regional_rural_banks,west bengal,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+397,15400.0,27400.0,91400.0,200100.0,5678.0,314200.0,63.7,,scheduled_commercial_banks,west bengal,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+398,,,,5200.0,,10900.0,48.3,905.0,regional_rural_banks,west bengal,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+399,18700.0,26200.0,117100.0,238800.0,6061.0,373900.0,63.8,,scheduled_commercial_banks,west bengal,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+400,,,,6000.0,,12200.0,49.1,907.0,regional_rural_banks,west bengal,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+401,21000.0,31300.0,137600.0,270100.0,6402.0,435600.0,62.0,,scheduled_commercial_banks,west bengal,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+402,,,,6900.0,,13800.0,50.0,907.0,regional_rural_banks,west bengal,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+403,26200.0,36500.0,157100.0,295900.0,6931.0,480100.0,61.6,,scheduled_commercial_banks,west bengal,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+404,,,,7700.0,,15400.0,50.0,925.0,regional_rural_banks,west bengal,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+405,24000.0,38600.0,173200.0,320100.0,7327.0,553700.0,57.8,,scheduled_commercial_banks,west bengal,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+406,,,,8670.0,,17470.0,49.6,959.0,regional_rural_banks,west bengal,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+407,29500.0,46200.0,174900.0,335800.0,7660.0,609900.0,55.1,,scheduled_commercial_banks,west bengal,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+408,,,,9200.0,,20660.0,44.5,961.0,regional_rural_banks,west bengal,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+409,28300.0,54400.0,175200.0,343079.0,7903.0,682175.0,50.3,,scheduled_commercial_banks,west bengal,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+410,,,,9900.0,,22000.0,45.0,961.0,regional_rural_banks,west bengal,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+411,33900.0,66000.0,171900.0,367300.0,7988.0,718600.0,51.1,,scheduled_commercial_banks,west bengal,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+412,,,,10755.0,,23652.0,45.5,972.0,regional_rural_banks,west bengal,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+413,38993.0,77492.0,159487.0,403677.0,8170.0,779291.0,49.5,,scheduled_commercial_banks,west bengal,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+414,,,,11247.0,,25233.0,44.6,980.0,regional_rural_banks,west bengal,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+415,41785.0,92689.0,161541.0,429211.0,9251.0,827832.0,49.3,,scheduled_commercial_banks,west bengal,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+416,,,,12599.0,,26606.0,47.4,980.0,regional_rural_banks,west bengal,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+417,46372.0,107044.0,141557.0,437348.0,9379.0,889011.0,46.5,,scheduled_commercial_banks,west bengal,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+418,,,,1100.0,,3500.0,31.7,413.0,regional_rural_banks,jharkhand,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+419,2600.0,8200.0,8700.0,26000.0,1984.0,75500.0,34.4,,scheduled_commercial_banks,jharkhand,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+420,,,,1300.0,,3700.0,35.0,416.0,regional_rural_banks,jharkhand,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+421,3300.0,8900.0,9700.0,29800.0,2180.0,87900.0,33.9,,scheduled_commercial_banks,jharkhand,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+422,,,,1500.0,,4000.0,37.1,417.0,regional_rural_banks,jharkhand,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+423,4600.0,10200.0,13400.0,33400.0,2368.0,104100.0,32.1,,scheduled_commercial_banks,jharkhand,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+424,,,,1700.0,,4200.0,39.7,433.0,regional_rural_banks,jharkhand,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+425,5600.0,11400.0,12900.0,38200.0,2582.0,120300.0,31.8,,scheduled_commercial_banks,jharkhand,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+426,,,,1900.0,,4700.0,40.4,433.0,regional_rural_banks,jharkhand,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+427,6000.0,13100.0,13000.0,42000.0,2763.0,142100.0,29.6,,scheduled_commercial_banks,jharkhand,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+428,,,,2170.0,,5370.0,40.4,449.0,regional_rural_banks,jharkhand,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+429,6100.0,15900.0,13900.0,47100.0,2840.0,159600.0,29.6,,scheduled_commercial_banks,jharkhand,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+430,,,,2350.0,,6480.0,36.3,441.0,regional_rural_banks,jharkhand,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+431,6800.0,17900.0,15000.0,49963.0,2910.0,184172.0,27.1,,scheduled_commercial_banks,jharkhand,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+432,,,,2500.0,,6800.0,36.8,442.0,regional_rural_banks,jharkhand,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+433,7200.0,20400.0,13600.0,54300.0,2954.0,195700.0,27.7,,scheduled_commercial_banks,jharkhand,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+434,,,,2709.0,,7069.0,38.3,453.0,regional_rural_banks,jharkhand,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+435,7699.0,23594.0,13294.0,63245.0,3051.0,218585.0,27.7,,scheduled_commercial_banks,jharkhand,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+436,,,,3100.0,,7588.0,40.9,452.0,regional_rural_banks,jharkhand,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+437,9170.0,27517.0,13736.0,71055.0,3169.0,234106.0,28.5,,scheduled_commercial_banks,jharkhand,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+438,,,,3450.0,,8174.0,42.2,452.0,regional_rural_banks,jharkhand,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+439,10390.0,32569.0,15048.0,80679.0,3190.0,256070.0,29.8,,scheduled_commercial_banks,jharkhand,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+440,,,,4800.0,,8900.0,54.4,874.0,regional_rural_banks,odisha,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+441,10400.0,12600.0,18400.0,54000.0,3029.0,102800.0,52.5,,scheduled_commercial_banks,odisha,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+442,,,,5600.0,,9700.0,58.2,875.0,regional_rural_banks,odisha,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+443,10000.0,13800.0,21000.0,58800.0,3319.0,124500.0,47.3,,scheduled_commercial_banks,odisha,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+444,,,,6100.0,,10100.0,61.1,884.0,regional_rural_banks,odisha,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+445,11300.0,15300.0,26300.0,66200.0,3558.0,142800.0,46.3,,scheduled_commercial_banks,odisha,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+446,,,,6600.0,,11100.0,59.8,884.0,regional_rural_banks,odisha,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+447,14200.0,16700.0,24700.0,73300.0,3995.0,164600.0,44.6,,scheduled_commercial_banks,odisha,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+448,,,,7000.0,,11700.0,59.8,934.0,regional_rural_banks,odisha,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+449,16900.0,18700.0,26600.0,79700.0,4410.0,190100.0,41.9,,scheduled_commercial_banks,odisha,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+450,,,,7380.0,,13140.0,56.2,961.0,regional_rural_banks,odisha,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+451,18000.0,21300.0,26600.0,85400.0,4567.0,209200.0,40.8,,scheduled_commercial_banks,odisha,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+452,,,,7480.0,,15080.0,49.6,990.0,regional_rural_banks,odisha,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+453,17100.0,24600.0,29000.0,93366.0,4748.0,245281.0,38.1,,scheduled_commercial_banks,odisha,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+454,,,,7800.0,,16200.0,48.1,999.0,regional_rural_banks,odisha,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+455,18000.0,29600.0,28400.0,101000.0,4839.0,268900.0,37.6,,scheduled_commercial_banks,odisha,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+456,,,,7729.0,,17736.0,43.6,994.0,regional_rural_banks,odisha,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+457,19466.0,33897.0,32662.0,127646.0,4914.0,309554.0,38.7,,scheduled_commercial_banks,odisha,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+458,,,,8018.0,,19552.0,41.0,994.0,regional_rural_banks,odisha,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+459,20514.0,39791.0,35731.0,143879.0,5223.0,341140.0,39.5,,scheduled_commercial_banks,odisha,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+460,,,,8606.0,,20832.0,41.3,994.0,regional_rural_banks,odisha,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+461,23978.0,47767.0,31270.0,155954.0,5289.0,363567.0,39.5,,scheduled_commercial_banks,odisha,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+462,,,,1400.0,,4400.0,32.5,456.0,regional_rural_banks,chhattisgarh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+463,7400.0,6600.0,12100.0,29700.0,1423.0,56800.0,52.3,,scheduled_commercial_banks,chhattisgarh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+464,,,,1700.0,,5100.0,33.0,467.0,regional_rural_banks,chhattisgarh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+465,7100.0,7300.0,14000.0,36600.0,1597.0,68300.0,53.6,,scheduled_commercial_banks,chhattisgarh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+466,,,,2000.0,,5900.0,33.7,499.0,regional_rural_banks,chhattisgarh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+467,10300.0,10100.0,18500.0,44600.0,1818.0,82900.0,53.8,,scheduled_commercial_banks,chhattisgarh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+468,,,,2100.0,,6600.0,31.8,566.0,regional_rural_banks,chhattisgarh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+469,8900.0,11000.0,20500.0,52600.0,2062.0,88500.0,59.5,,scheduled_commercial_banks,chhattisgarh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+470,,,,2300.0,,7400.0,31.1,583.0,regional_rural_banks,chhattisgarh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+471,10700.0,12600.0,23100.0,61100.0,2253.0,99200.0,61.6,,scheduled_commercial_banks,chhattisgarh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+472,,,,2540.0,,8150.0,31.2,586.0,regional_rural_banks,chhattisgarh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+473,10800.0,15700.0,25000.0,66400.0,2346.0,104600.0,63.5,,scheduled_commercial_banks,chhattisgarh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+474,,,,2630.0,,9080.0,29.0,597.0,regional_rural_banks,chhattisgarh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+475,11700.0,18500.0,25800.0,74179.0,2443.0,118872.0,62.4,,scheduled_commercial_banks,chhattisgarh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+476,,,,2800.0,,9700.0,28.9,618.0,regional_rural_banks,chhattisgarh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+477,10400.0,22600.0,29100.0,83700.0,2516.0,132400.0,63.2,,scheduled_commercial_banks,chhattisgarh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+478,,,,3048.0,,10518.0,29.0,624.0,regional_rural_banks,chhattisgarh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+479,13047.0,26673.0,25492.0,94404.0,2634.0,142656.0,63.3,,scheduled_commercial_banks,chhattisgarh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+480,,,,3511.0,,11332.0,31.0,624.0,regional_rural_banks,chhattisgarh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+481,15572.0,32621.0,25707.0,104647.0,2823.0,160542.0,62.4,,scheduled_commercial_banks,chhattisgarh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+482,,,,4452.0,,12472.0,35.7,624.0,regional_rural_banks,chhattisgarh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+483,13470.0,38233.0,29508.0,115659.0,2844.0,173217.0,62.7,,scheduled_commercial_banks,chhattisgarh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+484,,,,5300.0,,10100.0,52.1,1094.0,regional_rural_banks,madhya pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+485,21100.0,17400.0,25700.0,76800.0,4453.0,138100.0,55.6,,scheduled_commercial_banks,madhya pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+486,,,,5900.0,,11200.0,53.1,1106.0,regional_rural_banks,madhya pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+487,27000.0,20500.0,29800.0,94500.0,4805.0,166900.0,56.6,,scheduled_commercial_banks,madhya pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+488,,,,7100.0,,12700.0,56.1,1127.0,regional_rural_banks,madhya pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+489,29200.0,21800.0,34700.0,115700.0,5085.0,198600.0,58.2,,scheduled_commercial_banks,madhya pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+490,,,,8000.0,,14200.0,56.3,1200.0,regional_rural_banks,madhya pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+491,39700.0,28800.0,35800.0,135800.0,5601.0,224900.0,60.4,,scheduled_commercial_banks,madhya pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+492,,,,9200.0,,15000.0,61.3,1234.0,regional_rural_banks,madhya pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+493,46400.0,34400.0,38200.0,153000.0,5997.0,279300.0,54.8,,scheduled_commercial_banks,madhya pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+494,,,,10440.0,,16900.0,61.8,1294.0,regional_rural_banks,madhya pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+495,50500.0,41400.0,39300.0,172900.0,6209.0,282500.0,61.2,,scheduled_commercial_banks,madhya pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+496,,,,10960.0,,19540.0,56.1,1327.0,regional_rural_banks,madhya pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+497,56800.0,48100.0,40800.0,190639.0,6411.0,313014.0,60.9,,scheduled_commercial_banks,madhya pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+498,,,,11600.0,,19900.0,58.3,1339.0,regional_rural_banks,madhya pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+499,65900.0,57500.0,46600.0,222100.0,6581.0,341400.0,65.1,,scheduled_commercial_banks,madhya pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+500,,,,11889.0,,21685.0,54.8,1335.0,regional_rural_banks,madhya pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+501,71856.0,65350.0,51987.0,262105.0,6747.0,368951.0,67.9,,scheduled_commercial_banks,madhya pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+502,,,,12161.0,,23174.0,52.5,1343.0,regional_rural_banks,madhya pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+503,73320.0,79731.0,52487.0,285989.0,7234.0,396779.0,69.2,,scheduled_commercial_banks,madhya pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+504,,,,13362.0,,25195.0,53.0,1343.0,regional_rural_banks,madhya pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+505,81506.0,90865.0,57421.0,320452.0,7248.0,453372.0,67.9,,scheduled_commercial_banks,madhya pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+506,,,,2000.0,,4600.0,44.3,447.0,regional_rural_banks,gujarat,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+507,20500.0,29500.0,105500.0,171700.0,5073.0,259500.0,66.2,,scheduled_commercial_banks,gujarat,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+508,,,,2500.0,,5400.0,46.2,476.0,regional_rural_banks,gujarat,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+509,26700.0,33900.0,129200.0,213400.0,5548.0,303100.0,70.4,,scheduled_commercial_banks,gujarat,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+510,,,,3200.0,,6100.0,52.2,519.0,regional_rural_banks,gujarat,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+511,31200.0,43300.0,158800.0,261300.0,6084.0,358800.0,72.8,,scheduled_commercial_banks,gujarat,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+512,,,,3800.0,,7100.0,53.7,581.0,regional_rural_banks,gujarat,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+513,34100.0,52800.0,182900.0,309800.0,6743.0,414800.0,74.7,,scheduled_commercial_banks,gujarat,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+514,,,,4400.0,,8100.0,54.3,640.0,regional_rural_banks,gujarat,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+515,38200.0,62400.0,205100.0,347100.0,7241.0,477800.0,72.7,,scheduled_commercial_banks,gujarat,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+516,,,,5300.0,,9410.0,56.3,695.0,regional_rural_banks,gujarat,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+517,44800.0,79700.0,224400.0,390700.0,7432.0,518400.0,75.4,,scheduled_commercial_banks,gujarat,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+518,,,,6350.0,,11790.0,53.9,736.0,regional_rural_banks,gujarat,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+519,50600.0,94400.0,220400.0,415846.0,7697.0,603973.0,68.9,,scheduled_commercial_banks,gujarat,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+520,,,,7500.0,,12600.0,59.5,752.0,regional_rural_banks,gujarat,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+521,57100.0,119900.0,235100.0,483900.0,7922.0,640400.0,75.6,,scheduled_commercial_banks,gujarat,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+522,,,,8614.0,,13964.0,61.7,761.0,regional_rural_banks,gujarat,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+523,60944.0,141871.0,255137.0,591533.0,8150.0,674922.0,78.8,,scheduled_commercial_banks,gujarat,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+524,,,,9389.0,,15268.0,61.5,756.0,regional_rural_banks,gujarat,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+525,63349.0,170900.0,250566.0,611499.0,8626.0,738912.0,74.8,,scheduled_commercial_banks,gujarat,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+526,,,,10468.0,,16974.0,61.7,762.0,regional_rural_banks,gujarat,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+527,70723.0,195114.0,255167.0,659772.0,8582.0,830161.0,69.9,,scheduled_commercial_banks,gujarat,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+528,,,,2500.0,,4700.0,52.9,583.0,regional_rural_banks,maharashtra,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+529,37600.0,121300.0,465700.0,1206600.0,8816.0,1453300.0,83.0,,scheduled_commercial_banks,maharashtra,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+530,,,,3300.0,,5600.0,59.5,630.0,regional_rural_banks,maharashtra,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+531,44000.0,135800.0,542000.0,1404700.0,9608.0,1529900.0,91.8,,scheduled_commercial_banks,maharashtra,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+532,,,,4300.0,,6200.0,68.9,650.0,regional_rural_banks,maharashtra,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+533,61300.0,148600.0,646000.0,1590900.0,10272.0,1778900.0,89.4,,scheduled_commercial_banks,maharashtra,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+534,,,,5000.0,,7100.0,70.3,680.0,regional_rural_banks,maharashtra,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+535,71800.0,181300.0,740600.0,1821200.0,11203.0,2028800.0,89.8,,scheduled_commercial_banks,maharashtra,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+536,,,,5900.0,,8400.0,70.2,699.0,regional_rural_banks,maharashtra,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+537,74800.0,201300.0,784600.0,1977300.0,11810.0,2150000.0,92.0,,scheduled_commercial_banks,maharashtra,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+538,,,,6990.0,,9320.0,75.0,711.0,regional_rural_banks,maharashtra,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+539,87000.0,241600.0,872600.0,2244200.0,12058.0,2181700.0,102.9,,scheduled_commercial_banks,maharashtra,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+540,,,,7760.0,,10620.0,73.1,727.0,regional_rural_banks,maharashtra,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+541,98000.0,295200.0,894000.0,2327351.0,12392.0,2195511.0,106.0,,scheduled_commercial_banks,maharashtra,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+542,,,,7200.0,,12200.0,59.0,741.0,regional_rural_banks,maharashtra,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+543,92700.0,338200.0,853700.0,2450200.0,12462.0,2292800.0,106.9,,scheduled_commercial_banks,maharashtra,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+544,,,,8615.0,,13610.0,63.3,747.0,regional_rural_banks,maharashtra,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+545,128432.0,385523.0,875556.0,2426920.0,12943.0,2607845.0,105.2,,scheduled_commercial_banks,maharashtra,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+546,,,,8454.0,,15649.0,54.0,750.0,regional_rural_banks,maharashtra,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+547,96250.0,470361.0,884126.0,2511092.0,13578.0,2807751.0,102.0,,scheduled_commercial_banks,maharashtra,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+548,,,,10119.0,,18253.0,55.4,748.0,regional_rural_banks,maharashtra,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+549,102900.0,525366.0,803067.0,2504795.0,13648.0,3163108.0,92.5,,scheduled_commercial_banks,maharashtra,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+550,,,,7971.653,,7971.653,100.4,786.028,regional_rural_banks,andhra pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+551,34514.681,41382.257,76727.16,188271.686,4437.749,171566.384,109.7,,scheduled_commercial_banks,andhra pradesh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+552,,,,9847.336,,8968.11,109.8,822.37,regional_rural_banks,andhra pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+553,45286.419,45661.159,92963.541,225199.196,4884.396,202339.309,111.3,,scheduled_commercial_banks,andhra pradesh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+554,,,,12074.71,,10199.027,118.1,876.882,regional_rural_banks,andhra pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+555,54309.865,53750.042,104452.1,258316.725,5331.043,230591.785,112.0,,scheduled_commercial_banks,andhra pradesh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+556,,,,13950.393,,11957.479,116.4,897.397,regional_rural_banks,andhra pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+557,66660.706,62307.846,114592.511,287682.887,5802.894,258492.57,111.3,,scheduled_commercial_banks,andhra pradesh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+558,,,,15400.0,,15300.0,100.7,1015.0,regional_rural_banks,andhra pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+559,78200.0,51600.0,38300.0,198600.0,6290.0,193300.0,105.3,,scheduled_commercial_banks,andhra pradesh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+560,,,,17290.0,,19050.0,90.8,1098.0,regional_rural_banks,andhra pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+561,82100.0,61800.0,44000.0,222900.0,6567.0,210200.0,106.0,,scheduled_commercial_banks,andhra pradesh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+562,,,,20080.0,,23150.0,86.7,1171.0,regional_rural_banks,andhra pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+563,89800.0,72100.0,49900.0,252040.0,6839.0,249229.0,101.1,,scheduled_commercial_banks,andhra pradesh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+564,,,,24500.0,,26200.0,93.5,1231.0,regional_rural_banks,andhra pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+565,106000.0,87800.0,55400.0,309200.0,6935.0,274600.0,112.6,,scheduled_commercial_banks,andhra pradesh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+566,,,,29062.0,,29074.0,100.0,1263.0,regional_rural_banks,andhra pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+567,123985.0,105859.0,67698.0,373572.0,7087.0,300452.0,121.6,,scheduled_commercial_banks,andhra pradesh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+568,,,,31908.0,,32890.0,97.0,1291.0,regional_rural_banks,andhra pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+569,130732.0,124296.0,76779.0,418830.0,7252.0,324873.0,125.3,,scheduled_commercial_banks,andhra pradesh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+570,,,,38244.0,,37396.0,102.3,1297.0,regional_rural_banks,andhra pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+571,158371.0,146843.0,80857.0,486536.0,7431.0,359770.0,131.5,,scheduled_commercial_banks,andhra pradesh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+572,,,,11300.0,,,81.3,1213.0,regional_rural_banks,karnataka,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+573,37000.0,61300.0,90900.0,252600.0,6518.0,347400.0,72.7,,scheduled_commercial_banks,karnataka,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+574,,,,13100.0,,,87.0,1272.0,regional_rural_banks,karnataka,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+575,45200.0,71800.0,105900.0,292800.0,7137.0,410100.0,71.4,,scheduled_commercial_banks,karnataka,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+576,,,,15100.0,,,85.5,1325.0,regional_rural_banks,karnataka,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+577,54300.0,86400.0,125000.0,332300.0,7797.0,462200.0,71.9,,scheduled_commercial_banks,karnataka,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+578,,,,18100.0,,,85.0,1472.0,regional_rural_banks,karnataka,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+579,73400.0,99300.0,140800.0,381400.0,8625.0,536900.0,71.0,,scheduled_commercial_banks,karnataka,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+580,,,,21700.0,,10700.0,85.8,1621.0,regional_rural_banks,karnataka,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+581,76300.0,120900.0,155500.0,429200.0,9365.0,634300.0,67.7,,scheduled_commercial_banks,karnataka,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+582,,,,24980.0,,12630.0,81.4,1652.0,regional_rural_banks,karnataka,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+583,87600.0,142600.0,159600.0,488100.0,9640.0,696000.0,70.1,,scheduled_commercial_banks,karnataka,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+584,,,,27770.0,,15510.0,76.9,1742.0,regional_rural_banks,karnataka,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+585,92200.0,166400.0,159500.0,524756.0,10037.0,783250.0,67.0,,scheduled_commercial_banks,karnataka,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+586,,,,31100.0,,16700.0,87.4,1778.0,regional_rural_banks,karnataka,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+587,100900.0,194500.0,169500.0,582500.0,10041.0,835700.0,69.7,,scheduled_commercial_banks,karnataka,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+588,,,,32759.0,,17462.0,85.9,1791.0,regional_rural_banks,karnataka,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+589,101310.0,215308.0,183803.0,701678.0,10285.0,934364.0,69.7,,scheduled_commercial_banks,karnataka,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+590,,,,32939.0,,19410.0,81.1,1787.0,regional_rural_banks,karnataka,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+591,103972.0,248512.0,175728.0,741838.0,10778.0,1061242.0,65.2,,scheduled_commercial_banks,karnataka,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+592,,,,36731.0,,20712.0,84.6,1770.0,regional_rural_banks,karnataka,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+593,121196.0,273734.0,178391.0,793376.0,10875.0,1256023.0,59.8,,scheduled_commercial_banks,karnataka,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+594,,,,,,,,,regional_rural_banks,goa,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+595,500.0,3200.0,3600.0,9200.0,470.0,31600.0,29.1,,scheduled_commercial_banks,goa,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+596,,,,,,,,,regional_rural_banks,goa,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+597,400.0,3500.0,4200.0,10200.0,521.0,36500.0,28.1,,scheduled_commercial_banks,goa,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+598,,,,,,,,,regional_rural_banks,goa,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+599,700.0,4200.0,3400.0,11500.0,570.0,39800.0,28.8,,scheduled_commercial_banks,goa,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+600,,,,,,,,,regional_rural_banks,goa,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+601,1000.0,4800.0,4300.0,12900.0,632.0,45100.0,28.7,,scheduled_commercial_banks,goa,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+602,,,,,,,,,regional_rural_banks,goa,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+603,800.0,5700.0,4100.0,13700.0,670.0,51500.0,26.7,,scheduled_commercial_banks,goa,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+604,,,,,,,,,regional_rural_banks,goa,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+605,700.0,6300.0,4700.0,15100.0,670.0,55900.0,27.1,,scheduled_commercial_banks,goa,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+606,,,,,,,,,regional_rural_banks,goa,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+607,700.0,7200.0,4600.0,15856.0,686.0,61693.0,25.7,,scheduled_commercial_banks,goa,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+608,,,,,,,,,regional_rural_banks,goa,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+609,700.0,8600.0,4600.0,17400.0,684.0,65300.0,26.7,,scheduled_commercial_banks,goa,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+610,,,,,,,,,regional_rural_banks,goa,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+611,732.0,9443.0,4521.0,19416.0,697.0,71135.0,26.4,,scheduled_commercial_banks,goa,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+612,,,,,,,,,regional_rural_banks,goa,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+613,843.0,10590.0,3972.0,20146.0,697.0,76533.0,25.1,,scheduled_commercial_banks,goa,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+614,,,,,,,,,regional_rural_banks,goa,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+615,1139.0,11450.0,3889.0,22166.0,687.0,85771.0,24.5,,scheduled_commercial_banks,goa,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+616,,,,,,2800.0,,,regional_rural_banks,lakshadweep,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+617,0.0,0.0,0.0,0.0,12.0,500.0,8.7,,scheduled_commercial_banks,lakshadweep,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+618,,,,,,3400.0,,,regional_rural_banks,lakshadweep,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+619,0.0,,0.0,100.0,12.0,600.0,9.7,,scheduled_commercial_banks,lakshadweep,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+620,,,,,,3900.0,,,regional_rural_banks,lakshadweep,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+621,0.0,,0.0,100.0,12.0,600.0,9.9,,scheduled_commercial_banks,lakshadweep,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+622,,,,,,4600.0,,,regional_rural_banks,lakshadweep,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+623,0.0,,0.0,100.0,13.0,700.0,8.6,,scheduled_commercial_banks,lakshadweep,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+624,,,,,,5800.0,,,regional_rural_banks,lakshadweep,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+625,0.0,,0.0,100.0,13.0,800.0,9.1,,scheduled_commercial_banks,lakshadweep,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+626,,,,,,7000.0,,,regional_rural_banks,lakshadweep,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+627,0.0,,0.0,0.0,13.0,700.0,10.5,,scheduled_commercial_banks,lakshadweep,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+628,,,,,,8870.0,,,regional_rural_banks,lakshadweep,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+629,0.0,100.0,0.0,80.0,13.0,961.0,8.4,,scheduled_commercial_banks,lakshadweep,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+630,,,,,,10000.0,,,regional_rural_banks,lakshadweep,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+631,0.0,,0.0,100.0,13.0,1000.0,8.3,,scheduled_commercial_banks,lakshadweep,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+632,,,,,,11226.0,,,regional_rural_banks,lakshadweep,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+633,14.0,53.0,10.0,90.0,13.0,1096.0,8.1,,scheduled_commercial_banks,lakshadweep,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+634,,,,,,12440.0,,,regional_rural_banks,lakshadweep,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+635,12.0,60.0,10.0,97.0,13.0,1115.0,8.7,,scheduled_commercial_banks,lakshadweep,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+636,,,,,,14830.0,,,regional_rural_banks,lakshadweep,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+637,10.0,62.0,4.0,97.0,21.0,1239.0,7.8,,scheduled_commercial_banks,lakshadweep,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+638,,,,5600.0,,13900.0,115.4,404.0,regional_rural_banks,kerala,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+639,23200.0,44700.0,16500.0,125000.0,4690.0,170900.0,73.1,,scheduled_commercial_banks,kerala,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+640,,,,6100.0,,15000.0,111.2,404.0,regional_rural_banks,kerala,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+641,28900.0,50300.0,18400.0,153200.0,5006.0,200600.0,76.4,,scheduled_commercial_banks,kerala,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+642,,,,7600.0,,17700.0,110.9,496.0,regional_rural_banks,kerala,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+643,35400.0,61400.0,24300.0,173100.0,5430.0,236700.0,73.1,,scheduled_commercial_banks,kerala,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+644,,,,9000.0,,21300.0,118.1,509.0,regional_rural_banks,kerala,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+645,40900.0,66300.0,28600.0,190600.0,5858.0,281600.0,67.7,,scheduled_commercial_banks,kerala,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+646,,,,10400.0,,25300.0,123.8,558.0,regional_rural_banks,kerala,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+647,54400.0,67700.0,30900.0,212200.0,6190.0,328400.0,64.6,,scheduled_commercial_banks,kerala,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+648,,,,11920.0,,30680.0,115.4,589.0,regional_rural_banks,kerala,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+649,51300.0,77600.0,33500.0,227300.0,6299.0,366100.0,62.1,,scheduled_commercial_banks,kerala,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+650,,,,13740.0,,36100.0,113.2,614.0,regional_rural_banks,kerala,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+651,53200.0,91100.0,35200.0,245827.0,6452.0,411408.0,59.8,,scheduled_commercial_banks,kerala,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+652,,,,16300.0,,35600.0,128.3,626.0,regional_rural_banks,kerala,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+653,65800.0,102600.0,36200.0,282000.0,6382.0,441900.0,63.8,,scheduled_commercial_banks,kerala,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+654,,,,17895.0,,38116.0,121.1,645.0,regional_rural_banks,kerala,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+655,74607.0,117539.0,39308.0,334847.0,6622.0,495762.0,65.9,,scheduled_commercial_banks,kerala,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+656,,,,17910.0,,40599.0,108.9,645.0,regional_rural_banks,kerala,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+657,80291.0,132779.0,42480.0,360892.0,6801.0,545024.0,65.0,,scheduled_commercial_banks,kerala,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+658,,,,18456.0,,43401.0,101.1,645.0,regional_rural_banks,kerala,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+659,81895.0,148016.0,43919.0,388732.0,6869.0,607649.0,62.3,,scheduled_commercial_banks,kerala,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+660,,,,3400.0,,4800.0,120.9,298.0,regional_rural_banks,tamil nadu,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+661,56600.0,75800.0,165500.0,394100.0,6864.0,342300.0,115.1,,scheduled_commercial_banks,tamil nadu,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+662,,,,4300.0,,5500.0,128.8,336.0,regional_rural_banks,tamil nadu,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+663,74800.0,89200.0,186400.0,466200.0,7641.0,398900.0,116.9,,scheduled_commercial_banks,tamil nadu,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+664,,,,5300.0,,6800.0,133.5,346.0,regional_rural_banks,tamil nadu,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+665,90600.0,111100.0,209200.0,549300.0,8245.0,445500.0,123.3,,scheduled_commercial_banks,tamil nadu,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+666,,,,5600.0,,7700.0,123.0,372.0,regional_rural_banks,tamil nadu,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+667,109200.0,112200.0,227700.0,608700.0,9090.0,500000.0,121.8,,scheduled_commercial_banks,tamil nadu,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+668,,,,6200.0,,8400.0,106.9,448.0,regional_rural_banks,tamil nadu,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+669,115100.0,128000.0,236100.0,649200.0,9847.0,545300.0,119.0,,scheduled_commercial_banks,tamil nadu,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+670,,,,6760.0,,10330.0,96.6,485.0,regional_rural_banks,tamil nadu,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+671,116800.0,137600.0,238100.0,682000.0,10164.0,600000.0,113.7,,scheduled_commercial_banks,tamil nadu,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+672,,,,7710.0,,12140.0,86.9,558.0,regional_rural_banks,tamil nadu,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+673,124100.0,156200.0,232000.0,707383.0,10487.0,668507.0,105.8,,scheduled_commercial_banks,tamil nadu,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+674,,,,9300.0,,12700.0,93.0,617.0,regional_rural_banks,tamil nadu,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+675,144300.0,184500.0,240100.0,813600.0,10851.0,716700.0,113.5,,scheduled_commercial_banks,tamil nadu,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+676,,,,11242.0,,14774.0,100.1,636.0,regional_rural_banks,tamil nadu,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+677,163840.0,203821.0,251063.0,891030.0,11206.0,798738.0,110.3,,scheduled_commercial_banks,tamil nadu,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+678,,,,12229.0,,16442.0,98.3,646.0,regional_rural_banks,tamil nadu,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+679,182990.0,234074.0,258414.0,981665.0,11829.0,899038.0,107.5,,scheduled_commercial_banks,tamil nadu,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+680,,,,15659.0,,18261.0,105.6,652.0,regional_rural_banks,tamil nadu,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+681,223007.0,260647.0,247712.0,1046952.0,12028.0,1008731.0,101.7,,scheduled_commercial_banks,tamil nadu,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+682,,,,100.0,,100.0,106.5,25.0,regional_rural_banks,puducherry,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+683,700.0,1600.0,700.0,4300.0,159.0,6900.0,62.7,,scheduled_commercial_banks,puducherry,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+684,,,,200.0,,100.0,120.0,25.0,regional_rural_banks,puducherry,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+685,1000.0,1900.0,900.0,5500.0,171.0,7700.0,71.5,,scheduled_commercial_banks,puducherry,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+686,,,,200.0,,200.0,117.6,27.0,regional_rural_banks,puducherry,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+687,1300.0,2500.0,1100.0,6900.0,187.0,8200.0,83.3,,scheduled_commercial_banks,puducherry,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+688,,,,300.0,,300.0,110.0,31.0,regional_rural_banks,puducherry,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+689,1600.0,2800.0,1300.0,7300.0,205.0,9400.0,77.9,,scheduled_commercial_banks,puducherry,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+690,,,,400.0,,400.0,100.0,33.0,regional_rural_banks,puducherry,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+691,1800.0,3000.0,1300.0,7900.0,228.0,11100.0,71.5,,scheduled_commercial_banks,puducherry,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+692,,,,430.0,,450.0,95.6,36.0,regional_rural_banks,puducherry,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+693,1700.0,3300.0,1400.0,8500.0,234.0,12600.0,67.1,,scheduled_commercial_banks,puducherry,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+694,,,,460.0,,540.0,85.2,37.0,regional_rural_banks,puducherry,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+695,2100.0,3700.0,1500.0,9336.0,241.0,14606.0,63.9,,scheduled_commercial_banks,puducherry,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+696,,,,500.0,,700.0,71.4,37.0,regional_rural_banks,puducherry,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+697,2300.0,4300.0,1500.0,10400.0,245.0,16200.0,63.8,,scheduled_commercial_banks,puducherry,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+698,,,,626.0,,598.0,104.7,43.0,regional_rural_banks,puducherry,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+699,2611.0,4595.0,1518.0,12363.0,253.0,17818.0,66.7,,scheduled_commercial_banks,puducherry,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+700,,,,683.0,,804.0,84.9,43.0,regional_rural_banks,puducherry,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+701,2805.0,5233.0,1387.0,13322.0,267.0,20043.0,64.0,,scheduled_commercial_banks,puducherry,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+702,,,,836.0,,895.0,93.4,44.0,regional_rural_banks,puducherry,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+703,3637.0,5906.0,1458.0,14885.0,268.0,22138.0,64.8,,scheduled_commercial_banks,puducherry,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+704,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+705,0.0,400.0,100.0,700.0,42.0,1800.0,38.1,,scheduled_commercial_banks,andaman and nicobar islands,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+706,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+707,0.0,400.0,100.0,800.0,46.0,2000.0,38.5,,scheduled_commercial_banks,andaman and nicobar islands,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+708,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+709,0.0,400.0,100.0,900.0,53.0,2300.0,38.6,,scheduled_commercial_banks,andaman and nicobar islands,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+710,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+711,100.0,500.0,100.0,1000.0,59.0,2600.0,39.1,,scheduled_commercial_banks,andaman and nicobar islands,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+712,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+713,100.0,600.0,100.0,1200.0,61.0,2900.0,40.1,,scheduled_commercial_banks,andaman and nicobar islands,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+714,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+715,0.0,700.0,100.0,1400.0,63.0,3200.0,44.2,,scheduled_commercial_banks,andaman and nicobar islands,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+716,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+717,100.0,900.0,300.0,1579.0,67.0,4102.0,38.5,,scheduled_commercial_banks,andaman and nicobar islands,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+718,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+719,100.0,1100.0,300.0,1800.0,69.0,4700.0,39.4,,scheduled_commercial_banks,andaman and nicobar islands,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+720,,,,0.0,,,,,regional_rural_banks,andaman and nicobar islands,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+721,126.0,1320.0,101.0,2181.0,69.0,5186.0,41.9,,scheduled_commercial_banks,andaman and nicobar islands,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+722,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+723,132.0,1519.0,254.0,2561.0,71.0,5811.0,41.0,,scheduled_commercial_banks,andaman and nicobar islands,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+724,,,,,,,,,regional_rural_banks,andaman and nicobar islands,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+725,145.0,1782.0,122.0,2812.0,72.0,6043.0,46.3,,scheduled_commercial_banks,andaman and nicobar islands,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+726,,,,5628.347,,5628.347,100.4,554.972,regional_rural_banks,telangana,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+727,26685.319,29217.743,54172.84,132928.314,3133.251,121133.616,109.7,,scheduled_commercial_banks,telangana,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+728,,,,6952.664,,6331.89,109.8,580.63,regional_rural_banks,telangana,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+729,35013.581,32238.841,65636.459,159000.804,3448.604,142860.691,111.3,,scheduled_commercial_banks,telangana,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+730,,,,8525.29,,7200.973,118.1,619.118,regional_rural_banks,telangana,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+731,41990.135,37949.958,73747.9,182383.275,3763.957,162808.215,112.0,,scheduled_commercial_banks,telangana,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+732,,,,9849.607,,8442.521,116.4,633.603,regional_rural_banks,telangana,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+733,51539.294,43992.154,80907.489,203117.113,4097.106,182507.43,111.3,,scheduled_commercial_banks,telangana,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+734,,,,11000.0,,10700.0,102.8,780.0,regional_rural_banks,telangana,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+735,41300.0,68700.0,177800.0,333500.0,4721.0,323500.0,101.6,,scheduled_commercial_banks,telangana,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+736,,,,12520.0,,12630.0,99.1,817.0,regional_rural_banks,telangana,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+737,43500.0,79500.0,199500.0,371900.0,4918.0,355700.0,104.5,,scheduled_commercial_banks,telangana,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+738,,,,14220.0,,15510.0,91.7,866.0,regional_rural_banks,telangana,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+739,47700.0,90200.0,202400.0,395359.0,5134.0,407654.0,97.0,,scheduled_commercial_banks,telangana,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+740,,,,16500.0,,16700.0,98.8,900.0,regional_rural_banks,telangana,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+741,59000.0,112300.0,207700.0,448600.0,5148.0,417800.0,107.4,,scheduled_commercial_banks,telangana,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+742,,,,19316.0,,17462.0,110.6,911.0,regional_rural_banks,telangana,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+743,70594.0,137137.0,192283.0,518518.0,5227.0,458581.0,106.3,,scheduled_commercial_banks,telangana,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+744,,,,22835.0,,19410.0,117.6,917.0,regional_rural_banks,telangana,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+745,67321.0,170189.0,184111.0,550411.0,5388.0,498184.0,103.6,,scheduled_commercial_banks,telangana,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+746,,,,26513.0,,20712.0,128.0,934.0,regional_rural_banks,telangana,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+747,79689.0,201322.0,183349.0,601477.0,5579.0,605468.0,93.2,,scheduled_commercial_banks,telangana,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+748,,,,15.31,,43.742,35.5,5.686,regional_rural_banks,ladakh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+749,34.078,104.98,63.425,334.624,22.768,879.208,38.1,,scheduled_commercial_banks,ladakh,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+750,,,,19.684,,50.303,38.8,5.752,regional_rural_banks,ladakh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+751,38.946,124.664,65.613,369.617,26.201,1093.543,33.8,,scheduled_commercial_banks,ladakh,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+752,,,,21.871,,56.864,39.6,5.818,regional_rural_banks,ladakh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+753,68.155,157.47,89.671,478.972,29.832,1299.129,36.9,,scheduled_commercial_banks,ladakh,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+754,,,,28.432,,63.425,43.6,5.971,regional_rural_banks,ladakh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+755,102.233,190.276,113.728,583.952,33.572,1456.599,40.1,,scheduled_commercial_banks,ladakh,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+756,,,,30.619,,67.8,45.2,6.014,regional_rural_banks,ladakh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+757,129.008,231.831,131.225,680.184,35.737,1611.882,42.2,,scheduled_commercial_banks,ladakh,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+758,,,,37.837,,78.954,47.9,7.13,regional_rural_banks,ladakh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+759,133.876,290.882,137.786,774.228,37.312,1756.23,44.2,,scheduled_commercial_banks,ladakh,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+760,,,,37.399,,88.14,42.4,7.174,regional_rural_banks,ladakh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+761,136.31,323.689,137.786,813.465,38.077,2041.557,39.8,,scheduled_commercial_banks,ladakh,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+762,,,,43.742,,100.606,43.5,7.874,regional_rural_banks,ladakh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+763,153.349,415.546,172.78,975.44,38.996,2274.569,42.9,,scheduled_commercial_banks,ladakh,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+764,,,,50.631,,106.314,47.6,7.502,regional_rural_banks,ladakh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+765,167.783,541.326,193.163,1187.194,40.024,2583.429,45.5,,scheduled_commercial_banks,ladakh,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+766,,,,21.0,,16.0,128.2,2.0,regional_rural_banks,ladakh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+767,254.0,1054.0,128.0,1812.0,68.0,4955.0,36.1,,scheduled_commercial_banks,ladakh,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+768,,,,22.0,,16.0,136.4,2.0,regional_rural_banks,ladakh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+769,269.0,1342.0,157.0,2181.0,75.0,6161.0,34.9,,scheduled_commercial_banks,ladakh,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+770,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+771,0.0,200.0,1100.0,800.0,58.0,2900.0,29.205,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2011-04-01,2012-03-01,bank_type_bank,2011-04-01,2012-03-01
+772,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+773,0.0,300.0,1200.0,900.0,74.0,3700.0,24.837,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2012-04-01,2013-03-01,bank_type_bank,2012-04-01,2013-03-01
+774,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+775,0.0,300.0,1400.0,1200.0,87.0,4500.0,29.64,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2013-04-01,2014-03-01,bank_type_bank,2013-04-01,2014-03-01
+776,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+777,0.0,500.0,1400.0,1600.0,95.0,5300.0,32.967,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2014-04-01,2015-03-01,bank_type_bank,2014-04-01,2015-03-01
+778,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+779,0.0,500.0,1000.0,1800.0,100.0,6000.0,30.741,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2015-04-01,2016-03-01,bank_type_bank,2015-04-01,2016-03-01
+780,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+781,0.0,600.0,1000.0,1900.0,101.0,6700.0,30.454,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2016-04-01,2017-03-01,bank_type_bank,2016-04-01,2017-03-01
+782,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+783,100.0,900.0,1500.0,2316.0,105.0,7882.0,31.113,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2017-04-01,2018-03-01,bank_type_bank,2017-04-01,2018-03-01
+784,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+785,100.0,1300.0,1600.0,3000.0,106.0,8500.0,36.869,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2018-04-01,2019-03-01,bank_type_bank,2018-04-01,2019-03-01
+786,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+787,100.0,1599.0,1811.0,4199.0,106.0,9049.0,43.875,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2019-04-01,2020-03-01,bank_type_bank,2019-04-01,2020-03-01
+788,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+789,95.0,1948.0,2700.0,6458.0,110.0,9979.0,26.175,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2020-04-01,2021-03-01,bank_type_bank,2020-04-01,2021-03-01
+790,,,,,,,,,regional_rural_banks,the dadra and nagar haveli and daman and diu,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
+791,109.0,2108.0,3039.0,6066.0,104.0,11586.0,20.671,,scheduled_commercial_banks,the dadra and nagar haveli and daman and diu,2021-04-01,2022-03-01,bank_type_bank,2021-04-01,2022-03-01
