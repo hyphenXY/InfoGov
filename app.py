@@ -12,6 +12,10 @@ queries = {
     "Which states have the highest GST contributors across data sources?": {
         "description": "Provide N - Number of States",
         "response": ""
+    },
+    "What is the monthly IGST settlement growth for State for a year?":{
+        "description": "Provide State & Year",
+        "response": ""
     }
 }
 
@@ -55,6 +59,21 @@ elif selected_query == "Which states have the highest GST contributors across da
         try:
             # Compute the response using the hardcoded input
             query_details["response"]=Query.q2(n)
+            response = str(query_details["response"] )
+            st.session_state.chat_history.append({"text": response, "user": False})
+        except Exception as e:
+            st.error(f"An error occurred: {e}")
+elif selected_query == "What is the monthly IGST settlement growth for State for a year?":
+    state = st.text_input("Enter State:", value="Delhi")  # Default: Delhi
+    year = st.text_input("Enter Year:", value="2023")  # Default: 2023
+
+    if st.button("Run Query"):
+        st.session_state.chat_history.append({"text": selected_query, "user": True})
+
+        try:
+            # Compute the response using the hardcoded inputs
+            state=es.match_state_name(state)
+            query_details["response"]=Query.q3(state,year)
             response = str(query_details["response"] )
             st.session_state.chat_history.append({"text": response, "user": False})
         except Exception as e:
