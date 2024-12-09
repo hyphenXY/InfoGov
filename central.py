@@ -135,15 +135,21 @@ ls_to_gs_match_1= {value: key for key, value in gs_to_ls_match_1.items()}
 ls_to_gs_match_2={value: key for key, value in gs_to_ls_match_2.items()}
 
 
-sub_query_1=''''''
-sub_query_2=''''''
+sub_query_1='''SELECT State, EligiblePayers, RegisteredPayers 
+FROM GST_registeration_data;'''
+sub_query_2='''SELECT State, 
+       (NormalPayers + CompositePayers + CasualPayers) AS TotalPayers 
+FROM GST_payers_data;'''
 
 sub_query_1=convert_query(sub_query_1,gs_to_ls_match_1)
+print(sub_query_1)
 sub_query_2=convert_query(sub_query_2,gs_to_ls_match_2)
+print(sub_query_2)
 
 result_1=run_sql_query(sub_query_1,"https://reptile-growing-vastly.ngrok-free.app/chat")
 result_2=run_sql_query(sub_query_2,"https://choice-growing-sculpin.ngrok-free.app/chat")
 
+print(result_1)
 df1=pd.DataFrame(result_1)
 df2=pd.DataFrame(result_2)
 
@@ -159,6 +165,7 @@ df2["State"] = df2["State"].map(state_mapping).fillna(df2["State"])
 
 
 # here comes the pandas query
+print(df2.join(df1,on=["State","StartDate"]))
 
 
 
