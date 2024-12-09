@@ -22,26 +22,26 @@ connection = pymysql.connect(
   write_timeout=timeout,
 )
 
-states = []
-cursor = connection.cursor()
-cursor.execute("select state from States")
-x = cursor.fetchall()
-cursor.close()
+# states = []
+# cursor = connection.cursor()
+# cursor.execute("select state from States")
+# x = cursor.fetchall()
+# cursor.close()
 
-unique_state_list = [i["state"] for i in x ]
+# unique_state_list = [i["state"] for i in x ]
 
 def match_state_name(input_state, unique_states_list):
     # Initialize variables to store the best match and highest score
-    best_match = None
-    highest_score = 0
-    for state in unique_states_list:
-        similarity_score = jellyfish.jaro_winkler_similarity(input_state, state)
-        if similarity_score > highest_score:
-            highest_score = similarity_score
-            best_match = state
-    if(highest_score < 0.7):
-        return None
-    return best_match
+    # best_match = None
+    # highest_score = 0
+    # for state in unique_states_list:
+    #     similarity_score = jellyfish.jaro_winkler_similarity(input_state, state)
+    #     if similarity_score > highest_score:
+    #         highest_score = similarity_score
+    #         best_match = state
+    # if(highest_score < 0.7):
+    #     return None
+    return input_state
 
 def get_start_date(string:str):
     try:
@@ -87,36 +87,22 @@ for i in df_per_month.keys():
         df_per_month = df_per_month.drop([i],axis=1)
 
 col_list_year = [
-    "state",
-    "Gst ( goods and service tax ) payers registered",
-    "Payer eligible for gst ( goods and service tax ) registration",
-    "start_date",
-    "end_date",
+    "State",
+    "Payer_Registered_For_GST",
+    "Payer_Eligible_For_GST",
+    "Start_Date",
+    "End_Date",
 ]
-df_per_year["state"] = df_per_year.apply(lambda x : match_state_name(x["State"],unique_state_list),axis=1)
-df_per_year["start_date"] = df_per_year.apply(lambda x : get_start_date(x["Year"]),axis=1)
-df_per_year["end_date"] = df_per_year.apply(lambda x : get_end_date(x["Year"]),axis=1)
-df_per_year["Gst ( goods and service tax ) payers registered"] = df_per_year.apply(lambda x : x["Gst ( goods and service tax ) payers registered before due date_avg"] +x["Gst ( goods and service tax ) payers registered after due date_avg"] ,axis=1) 
-df_per_year["Payer eligible for gst ( goods and service tax ) registration"] = df_per_year.apply(lambda x : x["Payer eligible for gst ( goods and service tax ) registration_avg"],axis=1)
-df_per_month["state"] = df_per_month.apply(lambda x : match_state_name(x["State"],unique_state_list),axis=1)
+df_per_year["State"] = df_per_year.apply(lambda x : match_state_name(x["State"],None),axis=1)
+df_per_year["Start_Date"] = df_per_year.apply(lambda x : get_start_date(x["Year"]),axis=1)
+df_per_year["End_Date"] = df_per_year.apply(lambda x : get_end_date(x["Year"]),axis=1)
+df_per_year["Payer_Registered_For_GST"] = df_per_year.apply(lambda x : x["Gst ( goods and service tax ) payers registered before due date_avg"] +x["Gst ( goods and service tax ) payers registered after due date_avg"] ,axis=1) 
+df_per_year["Payer_Eligible_For_GST"] = df_per_year.apply(lambda x : x["Payer eligible for gst ( goods and service tax ) registration_avg"],axis=1)
+# df_per_month["state"] = df_per_month.apply(lambda x : match_state_name(x["State"],unique_state_list),axis=1)
 
-col_list_month = [
-    "state",
-    "date",
-    "Gst ( goods and service tax ) payers registered",
-    "Payer eligible for gst ( goods and service tax ) registration",
-    "Gst ( goods and service tax ) return type"
-    ]
-df_per_month["date"] = df_per_month.apply(lambda x : get_month(x["Month"]),axis=1)
-df_per_month["Gst ( goods and service tax ) payers registered"] = df_per_month.apply(lambda x : x["Gst ( goods and service tax ) payers registered before due date_avg"] +x["Gst ( goods and service tax ) payers registered after due date_avg"] ,axis=1) 
-df_per_month["Payer eligible for gst ( goods and service tax ) registration"] = df_per_month.apply(lambda x : x["Payer eligible for gst ( goods and service tax ) registration_avg"],axis=1)
-df_per_month["Gst ( goods and service tax ) return type"] = df_per_month.apply(lambda x : x["Gst ( goods and service tax ) return type"],axis=1)
 
 df_per_year_transformed = df_per_year[col_list_year]
-df_per_month_transformed =  df_per_month[col_list_month]
 
-df_per_month_transformed.dropna()
 df_per_year_transformed.dropna()
 
 df_per_year_transformed.to_csv("etl/trans_register_payers_per_year_data.csv")
-df_per_month_transformed.to_csv("etl/trans_register_payers_per_month_data.csv")
