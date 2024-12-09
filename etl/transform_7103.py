@@ -21,13 +21,10 @@ connection = pymysql.connect(
   write_timeout=timeout,
 )
 
-states = []
-cursor = connection.cursor()
-cursor.execute("select state from States")
-x = cursor.fetchall()
-cursor.close()
+# write all indian state names in 
+x = ["Andaman and Nicobar Islands","Andhra Pradesh","Arunachal Pradesh","Assam","Bihar","Chandigarh","Chhattisgarh","Dadra and Nagar Haveli and Daman and Diu","Delhi","Goa","Gujarat","Haryana","Himachal Pradesh","Jammu and Kashmir","Jharkhand","Karnataka","Kerala","Ladakh","Lakshadweep","Madhya Pradesh","Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Puducherry","Punjab","Rajasthan","Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal"]
 
-unique_state_list = [i["state"] for i in x ]
+unique_state_list = [i for i in x ]
 
 def match_state_name(input_state, unique_states_list):
     best_match = None

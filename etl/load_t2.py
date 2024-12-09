@@ -39,7 +39,7 @@ x = cursor.fetchall()
 sql_fields = [i["Field"] for i in x]
 cursor.close()
 
-df1 = pd.read_csv("trans_GST_info_per_year_data.csv",index_col=0)
+df1 = pd.read_csv("etl/trans_GST_info_per_year_data.csv",index_col=0)
 df2 = pd.read_csv("trans_GST_info_per_year_data_2.csv",index_col=0)
 
 schema_incoming_1 = list(df1.keys())
